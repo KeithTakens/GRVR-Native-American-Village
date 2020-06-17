@@ -1,0 +1,1532 @@
+﻿Log file open, 06/15/20 13:57:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GRVRMuseumProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.069721
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=blazingvortex -epicuserid=1fc957810f6546489d8fcbb061a58ee3 -epiclocale=en
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.15-17.57.38:650][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.15-17.57.38:650][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.15-17.57.38:650][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.15-17.57.38:650][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.15-17.57.38:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.15-17.57.38:651][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.15-17.57.38:651][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.15-17.57.38:655][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.06.15-17.57.38:655][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.15-17.57.38:656][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.15-17.57.38:656][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.15-17.57.38:656][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.15-17.57.38:673][  0]LogHAL: Display: Platform has ~ 32 GB [34297274368 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.15-17.57.38:673][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.15-17.57.38:673][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.06.15-17.57.38:673][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.15-17.57.38:674][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.15-17.57.38:674][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.15-17.57.38:675][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.15-17.57.38:675][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.15-17.57.38:675][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.15-17.57.38:675][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.15-17.57.38:675][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.15-17.57.38:675][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.15-17.57.38:675][  0]LogInit: Computer: DESKTOP-CDEC9E2
+[2020.06.15-17.57.38:675][  0]LogInit: User: KeithTakens
+[2020.06.15-17.57.38:675][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.15-17.57.38:675][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.15-17.57.38:675][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.06.15-17.57.38:675][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.15-17.57.38:675][  0]LogMemory: Process Physical Memory: 104.96 MB used, 104.96 MB peak
+[2020.06.15-17.57.38:675][  0]LogMemory: Process Virtual Memory: 100.59 MB used, 100.59 MB peak
+[2020.06.15-17.57.38:675][  0]LogMemory: Physical Memory: 8772.44 MB used,  23935.99 MB free, 32708.43 MB total
+[2020.06.15-17.57.38:675][  0]LogMemory: Virtual Memory: 5137.56 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.06.15-17.57.38:679][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.15-17.57.38:695][  0]LogInit: Using OS detected language (en-US).
+[2020.06.15-17.57.38:695][  0]LogInit: Using OS detected locale (en-US).
+[2020.06.15-17.57.38:696][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.06.15-17.57.38:848][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.15-17.57.38:904][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.15-17.57.38:904][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.15-17.57.39:084][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.06.15-17.57.39:084][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.06.15-17.57.39:084][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.15-17.57.39:141][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.06.15-17.57.39:141][  0]LogD3D11RHI:       8079/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.06.15-17.57.39:143][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.15-17.57.39:143][  0]LogD3D11RHI:       0/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.15-17.57.39:143][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.15-17.57.39:149][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.15-17.57.39:149][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.15-17.57.39:149][  0]LogWindows: EnumDisplayDevices:
+[2020.06.15-17.57.39:150][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.06.15-17.57.39:150][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.06.15-17.57.39:150][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.06.15-17.57.39:151][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.06.15-17.57.39:151][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.06.15-17.57.39:151][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.06.15-17.57.39:151][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.06.15-17.57.39:151][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.06.15-17.57.39:151][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.06.15-17.57.39:193][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.06.15-17.57.39:193][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.15-17.57.39:206][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.15-17.57.39:511][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.06.15-17.57.39:543][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.06.15-17.57.39:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.06.15-17.57.39:561][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.06.15-17.57.39:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.15-17.57.39:579][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.06.15-17.57.39:587][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.06.15-17.57.39:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.06.15-17.57.39:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.06.15-17.57.39:610][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.06.15-17.57.39:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.06.15-17.57.39:637][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.06.15-17.57.39:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.06.15-17.57.39:654][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.06.15-17.57.39:661][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.15-17.57.39:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.06.15-17.57.39:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.06.15-17.57.39:685][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.06.15-17.57.39:685][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.15-17.57.39:688][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.15-17.57.39:709][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Intermediate/Shaders/WorkingDirectory/2516/).
+[2020.06.15-17.57.39:709][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Keith Takens/AppData/Local/Temp/UnrealShaderWorkingDir/2DEF1B80467B824FA69BA68D3A39715D/'.
+[2020.06.15-17.57.39:709][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.15-17.57.39:709][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.15-17.57.39:709][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.15-17.57.40:383][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.15-17.57.40:447][  0]LogDerivedDataCache: Loaded boot cache 0.06s 100MB C:/Users/Keith Takens/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.15-17.57.40:447][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Keith Takens/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.06.15-17.57.40:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.15-17.57.40:448][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.15-17.57.40:448][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.15-17.57.40:448][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.15-17.57.40:457][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.15-17.57.40:457][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.15-17.57.40:457][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.15-17.57.40:458][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Keith Takens/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.15-17.57.40:458][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.15-17.57.40:458][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.15-17.57.40:485][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.15-17.57.40:488][  0]LogSlate: Using FreeType 2.10.0
+[2020.06.15-17.57.40:488][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.15-17.57.40:536][  0]LogAssetRegistry: FAssetRegistry took 0.0026 seconds to start up
+[2020.06.15-17.57.40:804][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.15-17.57.40:960][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.15-17.57.40:960][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.15-17.57.40:960][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.15-17.57.40:960][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.15-17.57.40:960][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.15-17.57.40:971][  0]LogNetVersion: GRVRMuseumProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1871045798)
+[2020.06.15-17.57.42:201][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.330745 seconds
+[2020.06.15-17.57.42:208][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.06.15-17.57.42:208][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.06.15-17.57.42:208][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.15-17.57.42:633][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.15-17.57.42:636][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.15-17.57.42:693][  0]SourceControl: Source control is disabled
+[2020.06.15-17.57.42:693][  0]SourceControl: Source control is disabled
+[2020.06.15-17.57.42:695][  0]SourceControl: Source control is disabled
+[2020.06.15-17.57.42:695][  0]SourceControl: Source control is disabled
+[2020.06.15-17.57.42:696][  0]SourceControl: Source control is disabled
+[2020.06.15-17.57.42:794][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.15-17.57.42:805][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.15-17.57.42:805][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.15-17.57.42:886][  0]LogOcInput: OculusInput pre-init called
+[2020.06.15-17.57.42:893][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.06.15-17.57.42:893][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.06.15-17.57.42:961][  0]LogEngine: Initializing Engine...
+[2020.06.15-17.57.42:962][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-C33E8F93
+[2020.06.15-17.57.42:964][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.15-17.57.43:282][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.15-17.57.43:291][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.15-17.57.43:295][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.15-17.57.43:295][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.15-17.57.43:295][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.15-17.57.43:295][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.15-17.57.43:295][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.15-17.57.43:295][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.15-17.57.43:295][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.15-17.57.43:295][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.15-17.57.43:295][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.15-17.57.43:295][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.15-17.57.43:330][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.15-17.57.43:330][  0]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.15-17.57.43:330][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.06.15-17.57.43:330][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.15-17.57.43:330][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.15-17.57.43:330][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.15-17.57.43:330][  0]LogAudioMixer: Display: Channel Order:
+[2020.06.15-17.57.43:330][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.15-17.57.43:330][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.06.15-17.57.43:353][  0]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.06.15-17.57.43:357][  0]LogInit: FAudioDevice initialized.
+[2020.06.15-17.57.43:357][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.15-17.57.43:446][  0]LogDerivedDataCache: Saved boot cache 0.09s 100MB C:/Users/Keith Takens/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.15-17.57.43:454][  0]LogInit: Texture streaming: Enabled
+[2020.06.15-17.57.43:462][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.15-17.57.43:462][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.15-17.57.43:463][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.15-17.57.43:565][  0]LogInit: Transaction tracking system initialized
+[2020.06.15-17.57.43:574][  0]BlueprintLog: New page: Editor Load
+[2020.06.15-17.57.43:603][  0]LocalizationService: Localization service is disabled
+[2020.06.15-17.57.44:021][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.15-17.57.44:021][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.15-17.57.44:088][  0]LogFileCache: Scanning file cache for directory 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/' took 0.03s
+[2020.06.15-17.57.44:570][  0]SourceControl: Source control is disabled
+[2020.06.15-17.57.44:570][  0]Cmd: MAP LOAD FILE="E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.15-17.57.44:621][  0]LightingResults: New page: Lighting Build
+[2020.06.15-17.57.44:621][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-17.57.44:621][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-17.57.44:621][  0]MapCheck: New page: Map Check
+[2020.06.15-17.57.44:621][  0]LightingResults: New page: Lighting Build
+[2020.06.15-17.57.44:644][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2020.06.15-17.57.45:551][  0]LogAIModule: Creating AISystem for world StartupMap
+[2020.06.15-17.57.45:590][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.15-17.57.45:612][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2020.06.15-17.57.45:612][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.15-17.57.45:612][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.183ms to complete.
+[2020.06.15-17.57.45:612][  0]LogFileHelpers: Loading map 'StartupMap' took 1.042
+[2020.06.15-17.57.46:217][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.15-17.57.46:244][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.15-17.57.46:249][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.15-17.57.46:256][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.15-17.57.46:320][  0]LogCollectionManager: Loaded 0 collections in 0.011433 seconds
+[2020.06.15-17.57.46:396][  0]LogFileCache: Scanning file cache for directory 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Collections/' took 0.00s
+[2020.06.15-17.57.46:396][  0]LogFileCache: Scanning file cache for directory 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/Developers/KeithTakens/Collections/' took 0.00s
+[2020.06.15-17.57.46:396][  0]LogFileCache: Scanning file cache for directory 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/Collections/' took 0.00s
+[2020.06.15-17.57.46:396][  0]LogContentBrowser: Native class hierarchy populated in 0.0073 seconds. Added 3015 classes and 717 folders.
+[2020.06.15-17.57.46:437][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.15-17.57.47:663][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.15-17.57.47:753][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.06.15-17.57.48:851][  0]LogSlate: Took 0.000149 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.15-17.57.48:853][  0]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.15-17.57.48:924][  0]LogSlate: Took 0.026449 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.15-17.57.49:357][  0]LogRenderer: Reallocating scene render targets to support 1012x568 Format 26 NumSamples 1 (Frame:1).
+[2020.06.15-17.57.49:531][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.15-17.57.49:531][  0]LogLoad: (Engine Initialization) Total time: 13.03 seconds
+[2020.06.15-17.57.49:531][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.15-17.57.49:541][  0]LogSteamVRInputDevice: Display: SteamVR runtime 1.5.17 loaded.
+[2020.06.15-17.57.49:541][  0]LogSteamVRInputDevice: Display: Action Manifest Path: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings/steamvr_manifest.json
+[2020.06.15-17.57.49:541][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings
+[2020.06.15-17.57.49:551][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings
+[2020.06.15-17.57.49:706][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2020.06.15-17.57.49:725][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [2516][application.generated.ue.virtual-reality-bp-game-template-11590370.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2020.06.15-17.57.49:725][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings/steamvr_manifest.json
+[2020.06.15-17.57.49:725][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2020.06.15-17.57.49:725][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2020.06.15-17.57.49:725][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2020.06.15-17.57.49:725][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:725][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2020.06.15-17.57.49:725][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:726][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special1
+[2020.06.15-17.57.49:726][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:726][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special2
+[2020.06.15-17.57.49:726][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:726][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special3
+[2020.06.15-17.57.49:726][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:726][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special4
+[2020.06.15-17.57.49:726][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:726][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special5
+[2020.06.15-17.57.49:726][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:726][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special6
+[2020.06.15-17.57.49:726][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special7
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special8
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-17.57.49:727][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.15-17.57.49:728][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: Action Manifest Path: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings/steamvr_manifest.json
+[2020.06.15-17.57.49:729][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings
+[2020.06.15-17.57.49:732][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings
+[2020.06.15-17.57.49:737][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2020.06.15-17.57.49:737][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [2516][application.generated.ue.virtual-reality-bp-game-template-11590370.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2020.06.15-17.57.49:737][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings/steamvr_manifest.json
+[2020.06.15-17.57.49:737][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special1
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special2
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special3
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special4
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special5
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special6
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special7
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special8
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.15-17.57.49:738][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.15-17.57.49:739][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-17.57.49:813][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.15-17.57.49:981][  0]LogSlate: Took 0.017551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.15-17.57.50:256][  4]LogAssetRegistry: Asset discovery search completed in 9.7217 seconds
+[2020.06.15-17.57.50:259][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.06.15-17.57.57:274][767]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.15-17.57.58:100][767]LogAIModule: Creating AISystem for world GrandRiver
+[2020.06.15-17.57.58:109][767]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GrandRiver.GrandRiver
+[2020.06.15-17.57.58:145][767]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2020.06.15-17.57.58:181][767]Cmd: MAP LOAD FILE="E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/GrandRiver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.15-17.57.58:181][767]LightingResults: New page: Lighting Build
+[2020.06.15-17.57.58:182][767]LoadErrors: New page: Loading map: GrandRiver.umap
+[2020.06.15-17.57.58:185][767]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-17.57.58:185][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-17.57.58:185][767]MapCheck: New page: Map Check
+[2020.06.15-17.57.58:185][767]LightingResults: New page: Lighting Build
+[2020.06.15-17.57.58:210][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2020.06.15-17.57.58:789][767]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.15-17.57.58:811][767]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2020.06.15-17.57.58:859][767]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.15-17.57.58:859][767]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.165ms to complete.
+[2020.06.15-17.57.58:859][767]LogFileHelpers: Loading map 'GrandRiver' took 0.693
+[2020.06.15-18.08.55:868][818]LogActorFactory: Actor Factory created Plane
+[2020.06.15-18.08.56:773][818]LogActorFactory: Actor Factory created Plane
+[2020.06.15-18.09.08:306][349]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Keith Takens\Desktop\museum terrain\Map.png)
+[2020.06.15-18.09.08:428][349]LogTexture: Display: Building textures: Map (BGRA8, 1081X1081)
+[2020.06.15-18.09.16:106][134]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.15-18.09.20:252][620]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.15-18.09.33:979][122]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MapMat.MapMat
+[2020.06.15-18.09.34:003][122]LogMaterial: Display: Missing cached shader map for material MapMat, compiling. 
+[2020.06.15-18.09.35:134][122]LogMaterial: Display: Missing cached shader map for material MapMat, compiling. 
+[2020.06.15-18.09.35:147][122]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.09.35:147][122]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.09.35:147][122]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.09.35:147][122]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.09.35:265][122]LogSlate: Took 0.000134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.06.15-18.09.37:345][244]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.06.15-18.09.37:618][263]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.15-18.09.37:646][265]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.15-18.09.37:660][266]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.06.15-18.09.38:403][287]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.06.15-18.09.38:676][288]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.06.15-18.09.38:676][288]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.06.15-18.09.38:676][288]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.06.15-18.09.38:676][288]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.15-18.09.39:918][399]LogMaterial: Display: Missing cached shader map for material MapMat, compiling. 
+[2020.06.15-18.09.39:937][399]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.09.39:937][399]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.09.39:937][399]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.09.39:937][399]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.09.39:937][399]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.15-18.09.39:984][399]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.15-18.09.40:446][423]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.15-18.09.40:730][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.15-18.09.40:768][447]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.06.15-18.09.40:768][447]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.15-18.09.41:159][455]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.06.15-18.09.41:174][456]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.06.15-18.09.41:395][463]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.15-18.09.41:414][465]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.06.15-18.09.41:714][483]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.06.15-18.09.41:715][483]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.06.15-18.09.41:715][483]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.06.15-18.09.41:715][483]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.06.15-18.09.41:715][483]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.15-18.09.44:266][733]LogMaterial: Display: Missing cached shader map for material MapMat, compiling. 
+[2020.06.15-18.09.44:284][733]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.09.44:284][733]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.09.44:284][733]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.09.44:284][733]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.09.44:284][733]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.06.15-18.09.44:837][769]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.15-18.09.45:131][790]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.15-18.09.45:144][791]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.06.15-18.09.45:188][795]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.15-18.09.45:638][826]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.06.15-18.09.45:668][828]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.15-18.09.45:818][839]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.15-18.09.45:874][843]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.06.15-18.09.46:184][866]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.06.15-18.09.46:310][875]LogMaterial: Display: Missing cached shader map for material MapMat, compiling. 
+[2020.06.15-18.09.46:323][875]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.09.46:366][877]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.09.46:380][878]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.06.15-18.09.46:684][901]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.06.15-18.09.46:895][915]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.06.15-18.09.47:142][934]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.15-18.09.47:208][939]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.06.15-18.09.47:455][957]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.06.15-18.09.47:620][970]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.06.15-18.09.50:289][263]LogMaterial: Display: Missing cached shader map for material MapMat, compiling. 
+[2020.06.15-18.09.50:309][264]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.09.50:309][264]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.09.50:309][264]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.09.50:309][264]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.09.50:872][300]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.06.15-18.09.51:129][319]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.15-18.09.51:179][323]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.06.15-18.09.51:179][323]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.15-18.09.51:575][354]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.06.15-18.09.51:996][387]MaterialEditorStats: Base pass shader: 170 instructions
+[2020.06.15-18.09.51:996][387]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 244 instructions
+[2020.06.15-18.09.51:996][387]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.06.15-18.09.51:996][387]MaterialEditorStats: Texture samplers: 3/16
+[2020.06.15-18.09.51:996][387]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.06.15-18.09.51:996][387]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.15-18.09.55:901][819]LogMaterial: Display: Missing cached shader map for material MapMat, compiling. 
+[2020.06.15-18.09.55:914][819]LogMaterial: Display: Missing cached shader map for material MapMat, compiling. 
+[2020.06.15-18.09.55:931][820]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.09.55:931][820]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.09.55:931][820]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.09.55:931][820]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.09.56:457][861]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.06.15-18.09.56:753][883]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.15-18.09.56:781][885]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.06.15-18.09.56:806][887]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.15-18.09.57:303][925]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.06.15-18.09.57:719][961]MaterialEditorStats: Base pass shader: 164 instructions
+[2020.06.15-18.09.57:719][961]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 232 instructions
+[2020.06.15-18.09.57:719][961]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.06.15-18.09.57:719][961]MaterialEditorStats: Texture samplers: 3/16
+[2020.06.15-18.09.57:719][961]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.06.15-18.09.57:719][961]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.15-18.09.58:449][ 41]LogMaterial: Display: Missing cached shader map for material MapMat, compiling. 
+[2020.06.15-18.09.58:477][ 43]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.09.58:477][ 43]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.09.58:477][ 43]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.09.58:477][ 43]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.09.59:043][ 85]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.06.15-18.09.59:326][103]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.15-18.09.59:351][105]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.06.15-18.09.59:351][105]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.15-18.09.59:838][139]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.06.15-18.09.59:859][141]LogMaterialEditor: Saving and Compiling material MapMat
+[2020.06.15-18.10.00:327][141]LogMaterial: Display: Missing cached shader map for material MapMat, compiling. 
+[2020.06.15-18.10.00:372][141]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.10.00:372][141]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.10.00:372][141]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.10.00:372][141]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.10.00:386][141]LogMaterial: Display: Missing cached shader map for material MapMat, compiling. 
+[2020.06.15-18.10.00:440][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2020.06.15-18.10.00:479][141]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-18.10.01:880][141]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.06.15-18.10.01:880][141]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.06.15-18.10.01:880][141]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.06.15-18.10.01:880][141]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.06.15-18.10.01:880][141]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.06.15-18.10.01:880][141]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.06.15-18.10.01:880][141]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.06.15-18.10.01:880][141]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.06.15-18.10.01:880][141]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.06.15-18.10.01:880][141]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.15-18.10.01:880][141]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.06.15-18.10.01:885][141]TextureStreamingBuild: Display: Compiling optional shaders took 1.444 seconds.
+[2020.06.15-18.10.01:938][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2020.06.15-18.10.03:268][141]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.15-18.10.03:268][141]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.06.15-18.10.03:268][141]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.06.15-18.10.03:283][141]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MapMat" FILE="E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/MapMat.uasset" SILENT=true
+[2020.06.15-18.10.03:398][141]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/MapMat65FB3C7D4C70EDE58D492B854A11A3C4.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/MapMat.uasset'
+[2020.06.15-18.10.03:447][141]AssetCheck: New page: Asset Save: MapMat
+[2020.06.15-18.10.03:447][141]LogContentValidation: Display: Validating Material /Game/MapMat.MapMat
+[2020.06.15-18.10.03:452][141]MaterialEditorStats: Base pass shader: 164 instructions
+[2020.06.15-18.10.03:452][141]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 232 instructions
+[2020.06.15-18.10.03:452][141]MaterialEditorStats: Base pass vertex shader: 101 instructions
+[2020.06.15-18.10.03:452][141]MaterialEditorStats: Texture samplers: 4/16
+[2020.06.15-18.10.03:452][141]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.06.15-18.10.03:452][141]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.06.15-18.10.51:773][433]LogSlate: Window 'MapMat' being destroyed
+[2020.06.15-18.10.51:779][433]LogSlate: Window 'MapMat' being destroyed
+[2020.06.15-18.10.52:281][433]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-18.10.52:281][433]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-18.10.53:678][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.06.15-18.10.54:794][579]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/GrandRiver_Auto1BFCF035A4C15F265729B589330DDB84A.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Autosaves/Game/GrandRiver_Auto1.umap'
+[2020.06.15-18.10.54:802][579]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GrandRiver' took 1.146
+[2020.06.15-18.10.54:802][579]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.146
+[2020.06.15-18.10.54:802][579]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Map] ([1] browsable assets)...
+[2020.06.15-18.10.54:807][579]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Map.Map]
+[2020.06.15-18.10.54:807][579]OBJ SavePackage: Finished generating thumbnails for package [/Game/Map]
+[2020.06.15-18.10.54:807][579]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Map" FILE="E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Autosaves/Game/Map_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2020.06.15-18.10.55:010][579]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Map_Auto18A0F608A42DA9EB419DF60A8B6D2DCE7.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Autosaves/Game/Map_Auto1.uasset'
+[2020.06.15-18.10.55:012][579]LogFileHelpers: Auto-saving content packages took 0.210
+[2020.06.15-18.10.59:502][ 93]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.15-18.11.47:745][771]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape6)
+[2020.06.15-18.11.49:742][  6]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.06.15-18.12.12:380][654]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.15-18.14.36:476][860]Cmd: EDIT COPY
+[2020.06.15-18.14.36:674][876]Cmd: EDIT PASTE
+[2020.06.15-18.14.49:362][326]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Water.Water
+[2020.06.15-18.14.49:366][326]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.14.49:504][326]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.14.49:518][326]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.14.49:539][326]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.14.49:539][326]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.14.49:539][326]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.14.49:539][326]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.14.50:209][368]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.06.15-18.14.50:555][392]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.15-18.14.50:569][393]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.06.15-18.14.50:581][394]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.15-18.14.50:962][426]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.06.15-18.14.51:318][457]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.06.15-18.14.51:318][457]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.06.15-18.14.51:318][457]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.06.15-18.14.51:318][457]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.15-18.14.51:839][514]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.14.51:852][514]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.14.51:894][515]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.14.51:894][515]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.14.51:894][515]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.14.51:894][515]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.14.52:425][553]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.15-18.14.52:674][572]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.15-18.14.52:687][573]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.06.15-18.14.52:790][573]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.15-18.14.53:154][594]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.06.15-18.14.53:242][600]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.06.15-18.14.53:379][607]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.15-18.14.53:438][611]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.06.15-18.14.53:706][630]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.06.15-18.14.53:728][631]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.06.15-18.14.53:728][631]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.06.15-18.14.53:728][631]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.06.15-18.14.53:728][631]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.15-18.14.54:208][675]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.14.54:219][675]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.14.54:219][675]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.14.54:219][675]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.14.54:219][675]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.14.54:225][675]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.14.54:797][714]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.15-18.14.55:036][730]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.15-18.14.55:050][731]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.06.15-18.14.55:063][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.14.55:103][733]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.14.55:137][733]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.14.55:568][760]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 13
+[2020.06.15-18.14.55:581][761]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.06.15-18.14.55:728][773]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.06.15-18.14.55:752][775]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.06.15-18.14.56:205][812]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.06.15-18.14.56:287][819]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.15-18.14.56:310][821]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.14.56:375][826]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.14.56:399][826]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.14.56:437][828]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.06.15-18.14.56:812][851]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.06.15-18.14.56:976][863]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.06.15-18.14.57:012][866]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.06.15-18.14.57:162][877]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.06.15-18.14.57:162][877]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.14.57:183][877]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.14.57:490][897]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.06.15-18.14.57:590][904]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.06.15-18.14.57:763][916]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 11
+[2020.06.15-18.14.57:801][919]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.06.15-18.14.58:219][952]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.06.15-18.14.58:230][953]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.06.15-18.14.58:347][963]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.06.15-18.14.58:458][972]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.15-18.14.58:696][991]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.06.15-18.14.58:933][  9]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.06.15-18.14.58:946][ 10]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.06.15-18.14.59:078][ 22]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.06.15-18.14.59:137][ 27]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.06.15-18.14.59:566][ 61]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.14.59:580][ 61]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.14.59:580][ 61]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.14.59:580][ 61]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.14.59:580][ 61]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.14.59:587][ 61]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.15.00:124][ 93]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.15-18.15.00:444][110]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.15-18.15.00:444][110]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.06.15-18.15.00:459][111]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.15-18.15.00:976][146]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.06.15-18.15.00:989][147]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.06.15-18.15.01:133][158]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.15-18.15.01:155][159]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.15.01:181][159]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.15.01:190][159]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.06.15-18.15.01:509][181]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.06.15-18.15.01:597][187]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.06.15-18.15.01:717][196]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.06.15-18.15.01:954][213]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.06.15-18.15.02:122][225]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.06.15-18.15.02:284][236]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.15.02:313][236]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.15.02:322][236]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.15.02:488][246]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.06.15-18.15.02:646][256]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.06.15-18.15.02:777][265]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.06.15-18.15.03:129][289]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.15.03:175][292]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.06.15-18.15.03:371][307]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.06.15-18.15.03:601][324]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.15-18.15.03:671][329]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.06.15-18.15.03:957][349]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.15.03:981][349]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.15.03:991][349]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.15.04:050][353]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2020.06.15-18.15.04:192][364]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.06.15-18.15.04:345][373]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.06.15-18.15.04:713][391]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.15-18.15.04:740][393]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.15-18.15.04:845][401]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.06.15-18.15.05:040][416]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.15-18.15.05:187][428]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.06.15-18.15.05:218][430]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.15.05:239][430]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.15.05:478][446]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.06.15-18.15.05:490][447]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.06.15-18.15.05:688][462]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.06.15-18.15.05:725][465]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.06.15-18.15.06:258][497]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.15.06:273][498]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.15-18.15.06:339][503]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.15.06:505][516]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.15-18.15.06:621][525]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.15.06:645][525]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.15.06:656][525]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.15-18.15.06:754][532]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 13
+[2020.06.15-18.15.07:038][550]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.06.15-18.15.07:111][554]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.06.15-18.15.07:218][562]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.06.15-18.15.07:521][584]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 9
+[2020.06.15-18.15.07:629][590]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.15-18.15.07:800][597]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.15.07:979][605]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.15-18.15.08:095][611]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.06.15-18.15.08:328][622]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2020.06.15-18.15.08:447][630]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2020.06.15-18.15.08:606][641]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.06.15-18.15.08:703][648]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.06.15-18.15.08:726][649]MaterialEditorStats: Base pass shader: 172 instructions
+[2020.06.15-18.15.08:726][649]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 246 instructions
+[2020.06.15-18.15.08:726][649]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.06.15-18.15.08:726][649]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.15-18.15.09:031][672]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.15.09:044][672]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.15-18.15.09:044][672]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.06.15-18.15.09:052][672]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.15.09:065][672]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.15-18.15.09:110][673]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 11
+[2020.06.15-18.15.09:173][676]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 10
+[2020.06.15-18.15.09:642][710]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.15.09:918][731]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.06.15-18.15.09:930][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.06.15-18.15.09:995][736]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 6
+[2020.06.15-18.15.10:430][766]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.06.15-18.15.10:441][767]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.15-18.15.10:555][778]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.15-18.15.10:630][785]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.06.15-18.15.10:809][798]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.15.10:833][798]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.15.10:862][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.06.15-18.15.10:979][806]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.06.15-18.15.11:127][817]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.06.15-18.15.11:140][818]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.06.15-18.15.11:617][848]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.06.15-18.15.11:628][849]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2020.06.15-18.15.11:641][850]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.15-18.15.11:747][858]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.06.15-18.15.11:897][870]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.15.12:152][888]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.06.15-18.15.12:489][912]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.15-18.15.12:539][912]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.06.15-18.15.12:610][915]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.15-18.15.12:624][916]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.06.15-18.15.12:647][917]MaterialEditorStats: Base pass shader: 173 instructions
+[2020.06.15-18.15.12:647][917]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 247 instructions
+[2020.06.15-18.15.12:647][917]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.06.15-18.15.12:647][917]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.15-18.15.13:642][997]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.15.13:656][997]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.15.13:656][997]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.15.13:656][997]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.15.13:656][997]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.15.13:662][997]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2020.06.15-18.15.13:671][997]LogSlate: Window 'Color Picker' being destroyed
+[2020.06.15-18.15.14:232][ 34]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 9
+[2020.06.15-18.15.14:530][ 56]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.15-18.15.14:553][ 58]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.06.15-18.15.14:565][ 59]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.15.14:995][ 92]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.06.15-18.15.15:012][ 93]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.06.15-18.15.15:270][112]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.06.15-18.15.15:312][115]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.06.15-18.15.15:563][134]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.06.15-18.15.15:616][135]MaterialEditorStats: Base pass shader: 173 instructions
+[2020.06.15-18.15.15:616][135]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 247 instructions
+[2020.06.15-18.15.15:616][135]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.06.15-18.15.15:616][135]MaterialEditorStats: Texture samplers: 2/16
+[2020.06.15-18.15.16:260][192]LogMaterialEditor: Saving and Compiling material Water
+[2020.06.15-18.15.16:721][192]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.15.16:753][192]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.06.15-18.15.16:753][192]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.06.15-18.15.16:753][192]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.06.15-18.15.16:753][192]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.06.15-18.15.16:792][192]LogMaterial: Display: Missing cached shader map for material Water, compiling. 
+[2020.06.15-18.15.16:842][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.06.15-18.15.16:860][192]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.06.15-18.15.18:139][192]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.06.15-18.15.18:139][192]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.06.15-18.15.18:139][192]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.06.15-18.15.18:139][192]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.06.15-18.15.18:139][192]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.06.15-18.15.18:139][192]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.06.15-18.15.18:139][192]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.06.15-18.15.18:139][192]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 15
+[2020.06.15-18.15.18:139][192]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.06.15-18.15.18:139][192]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2020.06.15-18.15.18:139][192]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.06.15-18.15.18:142][192]TextureStreamingBuild: Display: Compiling optional shaders took 1.299 seconds.
+[2020.06.15-18.15.18:164][192]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2020.06.15-18.15.19:580][192]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.06.15-18.15.19:580][192]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.06.15-18.15.19:580][192]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.06.15-18.15.19:595][192]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Water" FILE="E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/Water.uasset" SILENT=true
+[2020.06.15-18.15.19:717][192]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/WaterFB9411C84F562627C120A28D2DCA0CF9.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/Water.uasset'
+[2020.06.15-18.15.19:764][192]AssetCheck: New page: Asset Save: Water
+[2020.06.15-18.15.19:764][192]LogContentValidation: Display: Validating Material /Game/Water.Water
+[2020.06.15-18.15.19:770][192]MaterialEditorStats: Base pass shader: 173 instructions
+[2020.06.15-18.15.19:770][192]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 247 instructions
+[2020.06.15-18.15.19:770][192]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.06.15-18.15.19:770][192]MaterialEditorStats: Texture samplers: 3/16
+[2020.06.15-18.15.25:556][828]LogSlate: Window 'Water' being destroyed
+[2020.06.15-18.15.25:561][828]LogSlate: Window 'Water' being destroyed
+[2020.06.15-18.15.25:584][828]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-18.15.25:584][828]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-18.15.34:530][857]Cmd: TRANSACTION UNDO
+[2020.06.15-18.15.34:531][857]LogEditorTransaction: Undo Create Actors
+[2020.06.15-18.16.50:498][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrandRiver" FILE="E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/GrandRiver.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.15-18.16.50:862][822]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.06.15-18.16.51:787][822]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/GrandRiver5A7A1ED6465F9F3C84A02DA59A03034E.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/GrandRiver.umap'
+[2020.06.15-18.16.51:866][822]AssetCheck: New page: Asset Save: GrandRiver
+[2020.06.15-18.16.51:866][822]LogContentValidation: Display: Validating World /Game/GrandRiver.GrandRiver
+[2020.06.15-18.17.05:993][458]Cmd: TRANSACTION UNDO
+[2020.06.15-18.17.05:993][458]LogEditorTransaction: Undo Move Actors
+[2020.06.15-18.19.21:732][542]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrandRiver" FILE="E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/GrandRiver.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.15-18.19.22:094][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2020.06.15-18.19.23:178][542]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/GrandRiverFF13449F4E3E3A2EFB00A8A76F8AFA03.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/GrandRiver.umap'
+[2020.06.15-18.19.23:229][542]AssetCheck: New page: Asset Save: GrandRiver
+[2020.06.15-18.19.23:229][542]LogContentValidation: Display: Validating World /Game/GrandRiver.GrandRiver
+[2020.06.15-18.19.49:329][657]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8a11d524-e3aa-4324-8d2e-3e7bc7fc8f45}.
+[2020.06.15-18.19.49:329][657]LogTemp: Resetting audio stream to device id 
+[2020.06.15-18.19.49:458][657]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.15-18.19.49:458][657]LogAudioMixer: Display: Name: HTC-VIVE (NVIDIA High Definition Audio)
+[2020.06.15-18.19.49:458][657]LogAudioMixer: Display: Is Default: Yes
+[2020.06.15-18.19.49:458][657]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.15-18.19.49:458][657]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.15-18.19.49:458][657]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.15-18.19.49:458][657]LogAudioMixer: Display: Channel Order:
+[2020.06.15-18.19.49:458][657]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.15-18.19.49:458][657]LogAudioMixer: Display: 1: FrontRight
+[2020.06.15-18.20.45:463][824]LogCore: Display: AppLifetime: Application will enter background
+[2020.06.15-18.20.54:234][850]LogCore: Display: AppLifetime: Application has entered foreground
+[2020.06.15-18.20.54:234][850]LogHMD: SteamVR Shutting down.
+[2020.06.15-18.46.46:493][712]LogTemp: Repeating last play command: VR Preview
+[2020.06.15-18.46.47:269][712]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.15-18.46.47:280][712]PIE: New page: PIE session: GrandRiver (Jun 15, 2020, 10:46:47 AM)
+[2020.06.15-18.46.47:303][712]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.06.15-18.46.47:326][712]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.06.15-18.46.47:326][712]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GrandRiver
+[2020.06.15-18.46.47:538][712]LogPlayLevel: PIE: StaticDuplicateObject took: (0.212414s)
+[2020.06.15-18.46.47:539][712]LogAIModule: Creating AISystem for world GrandRiver
+[2020.06.15-18.46.47:540][712]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2020.06.15-18.46.47:540][712]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GrandRiver.GrandRiver to /Game/UEDPIE_0_GrandRiver.GrandRiver (0.214168s)
+[2020.06.15-18.46.47:563][712]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2020.06.15-18.46.47:565][712]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.15-18.46.47:565][712]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.15-18.46.47:565][712]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.15-18.46.47:565][712]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.15-18.46.47:565][712]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.15-18.46.47:565][712]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.15-18.46.47:565][712]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.15-18.46.47:565][712]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.15-18.46.47:565][712]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.15-18.46.47:565][712]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.15-18.46.47:591][712]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.15-18.46.47:591][712]LogAudioMixer: Display: Name: HTC-VIVE (NVIDIA High Definition Audio)
+[2020.06.15-18.46.47:591][712]LogAudioMixer: Display: Is Default: Yes
+[2020.06.15-18.46.47:591][712]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.15-18.46.47:591][712]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.15-18.46.47:591][712]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.15-18.46.47:591][712]LogAudioMixer: Display: Channel Order:
+[2020.06.15-18.46.47:591][712]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.15-18.46.47:591][712]LogAudioMixer: Display: 1: FrontRight
+[2020.06.15-18.46.47:600][712]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2020.06.15-18.46.47:602][712]LogInit: FAudioDevice initialized.
+[2020.06.15-18.46.47:613][712]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.15-18.46.53:183][712]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-C33E8F93
+[2020.06.15-18.46.53:284][712]LogLoad: Game class is 'GameModeBase'
+[2020.06.15-18.46.53:308][712]LogWorld: Bringing World /Game/UEDPIE_0_GrandRiver.GrandRiver up for play (max tick rate 0) at 2020.06.15-14.46.53
+[2020.06.15-18.46.53:309][712]LogWorld: Bringing up level for play took: 0.000974
+[2020.06.15-18.46.53:309][712]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.06.15-18.46.53:367][712]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2020.06.15-18.46.53:522][712]PIE: Play in editor start time for /Game/UEDPIE_0_GrandRiver 5.356
+[2020.06.15-18.46.53:605][713]LogRenderer: Reallocating scene render targets to support 3704x2056 Format 26 NumSamples 1 (Frame:1).
+[2020.06.15-18.46.53:606][713]LogSteamVRInputDevice: Display: SteamVR runtime 1.5.17 loaded.
+[2020.06.15-18.46.53:606][713]LogSteamVRInputDevice: Display: Action Manifest Path: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings/steamvr_manifest.json
+[2020.06.15-18.46.53:606][713]LogSteamVRInputDevice: Display: Controller Bindings Path: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings
+[2020.06.15-18.46.53:611][713]LogSteamVRInputDevice: Searching for Controller Bindings files at: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings
+[2020.06.15-18.46.53:617][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2020.06.15-18.46.53:617][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [2516][application.generated.ue.virtual-reality-bp-game-template-11590370.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2020.06.15-18.46.53:617][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings/steamvr_manifest.json
+[2020.06.15-18.46.53:617][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2020.06.15-18.46.53:618][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2020.06.15-18.46.53:618][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2020.06.15-18.46.53:618][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:618][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2020.06.15-18.46.53:618][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:618][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special1
+[2020.06.15-18.46.53:618][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:618][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special2
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special3
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special4
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special5
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special6
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special7
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special8
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2020.06.15-18.46.53:619][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.15-18.46.53:620][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.15-18.46.53:621][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.15-18.46.53:622][713]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.15-18.46.53:636][714]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.06.15-18.47.17:475][841]LogCore: Display: AppLifetime: Application will enter background
+[2020.06.15-18.47.19:060][983]LogCore: Display: AppLifetime: Application has entered foreground
+[2020.06.15-18.47.28:845][859]LogCore: Display: AppLifetime: Application will enter background
+[2020.06.15-18.47.32:051][146]LogCore: Display: AppLifetime: Application has entered foreground
+[2020.06.15-18.48.02:478][869]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.15-18.48.02:508][869]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.15-18.48.02:528][869]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.15-18.48.02:543][869]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.15-18.48.02:543][869]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GrandRiver
+[2020.06.15-18.48.02:915][869]LogSlate: Window 'GRVRMuseumProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.15-18.48.02:917][869]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.15-18.48.02:918][869]LogWorld: UWorld::CleanupWorld for GrandRiver, bSessionEnded=true, bCleanupResources=true
+[2020.06.15-18.48.02:918][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-18.48.02:923][869]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.15-18.48.02:926][869]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.15-18.48.02:949][869]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.15-18.48.02:956][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.06.15-18.48.02:987][870]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.06.15-18.48.32:784][387]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2020.06.15-18.50.13:929][255]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape6)
+[2020.06.15-18.50.28:474][797]Cmd: TRANSACTION UNDO
+[2020.06.15-18.50.28:474][797]LogEditorTransaction: Undo Move Actors
+[2020.06.15-18.50.33:302][310]Cmd: TRANSACTION UNDO
+[2020.06.15-18.50.33:302][310]LogEditorTransaction: Undo Move Actors
+[2020.06.15-18.50.36:343][615]Cmd: DELETE
+[2020.06.15-18.50.36:343][615]Cmd: ACTOR DELETE
+[2020.06.15-18.50.36:379][615]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.15-18.50.36:402][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2020.06.15-18.50.36:405][615]LogEditorActor: Deleted 1 Actors (0.046 secs)
+[2020.06.15-18.50.38:078][813]Cmd: EDIT COPY
+[2020.06.15-18.50.38:272][836]Cmd: EDIT PASTE
+[2020.06.15-18.50.49:060][ 70]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.15-18.50.50:796][273]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.15-18.53.35:878][ 83]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape6)
+[2020.06.15-18.53.36:651][165]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane2)
+[2020.06.15-18.58.29:380][951]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2020.06.15-18.58.29:444][951]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.06.15-18.58.29:456][951]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2020.06.15-18.58.29:463][951]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2020.06.15-18.58.29:470][951]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2020.06.15-18.58.30:297][951]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/GrandRiver_Auto201D315CC4A78629DB9E87EA3EF7C6700.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Autosaves/Game/GrandRiver_Auto2.umap'
+[2020.06.15-18.58.30:305][951]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GrandRiver' took 0.949
+[2020.06.15-18.58.30:305][951]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.949
+[2020.06.15-18.58.36:301][969]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{96807745-5b3c-4d5c-a837-b3d9312447f1}.
+[2020.06.15-18.58.36:301][969]LogTemp: Resetting audio stream to device id 
+[2020.06.15-18.58.36:430][969]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.15-18.58.36:430][969]LogAudioMixer: Display: Name: HTC-VIVE (NVIDIA High Definition Audio)
+[2020.06.15-18.58.36:430][969]LogAudioMixer: Display: Is Default: Yes
+[2020.06.15-18.58.36:430][969]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.15-18.58.36:430][969]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.15-18.58.36:430][969]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.15-18.58.36:430][969]LogAudioMixer: Display: Channel Order:
+[2020.06.15-18.58.36:430][969]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.15-18.58.36:430][969]LogAudioMixer: Display: 1: FrontRight
+[2020.06.15-18.58.43:487][991]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{8a11d524-e3aa-4324-8d2e-3e7bc7fc8f45}.
+[2020.06.15-18.58.43:487][991]LogTemp: Resetting audio stream to device id 
+[2020.06.15-18.58.43:528][991]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.15-18.58.43:528][991]LogAudioMixer: Display: Name: Realtek Digital Output (Realtek High Definition Audio)
+[2020.06.15-18.58.43:528][991]LogAudioMixer: Display: Is Default: Yes
+[2020.06.15-18.58.43:528][991]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.15-18.58.43:529][991]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.15-18.58.43:529][991]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.15-18.58.43:529][991]LogAudioMixer: Display: Channel Order:
+[2020.06.15-18.58.43:529][991]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.15-18.58.43:529][991]LogAudioMixer: Display: 1: FrontRight
+[2020.06.15-18.58.45:491][997]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{9c90c3a0-1955-466b-94fe-6d51ef04fcc6}.
+[2020.06.15-18.58.45:491][997]LogTemp: Resetting audio stream to device id 
+[2020.06.15-18.58.45:586][997]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.15-18.58.45:586][997]LogAudioMixer: Display: Name: HTC-VIVE (NVIDIA High Definition Audio)
+[2020.06.15-18.58.45:586][997]LogAudioMixer: Display: Is Default: Yes
+[2020.06.15-18.58.45:586][997]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.15-18.58.45:586][997]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.15-18.58.45:586][997]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.15-18.58.45:586][997]LogAudioMixer: Display: Channel Order:
+[2020.06.15-18.58.45:586][997]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.15-18.58.45:586][997]LogAudioMixer: Display: 1: FrontRight
+[2020.06.15-18.58.47:159][  2]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{96807745-5b3c-4d5c-a837-b3d9312447f1}.
+[2020.06.15-18.58.47:159][  2]LogTemp: Resetting audio stream to device id 
+[2020.06.15-18.58.47:194][  2]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.15-18.58.47:194][  2]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.15-18.58.47:194][  2]LogAudioMixer: Display: Is Default: Yes
+[2020.06.15-18.58.47:194][  2]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.15-18.58.47:194][  2]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.15-18.58.47:194][  2]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.15-18.58.47:194][  2]LogAudioMixer: Display: Channel Order:
+[2020.06.15-18.58.47:194][  2]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.15-18.58.47:194][  2]LogAudioMixer: Display: 1: FrontRight
+[2020.06.15-19.34.03:075][474]LogTemp: Resetting audio stream to device id 
+[2020.06.15-19.34.03:222][474]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.15-19.34.03:222][474]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.15-19.34.03:222][474]LogAudioMixer: Display: Is Default: Yes
+[2020.06.15-19.34.03:222][474]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.15-19.34.03:222][474]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.15-19.34.03:222][474]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.15-19.34.03:222][474]LogAudioMixer: Display: Channel Order:
+[2020.06.15-19.34.03:222][474]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.15-19.34.03:222][474]LogAudioMixer: Display: 1: FrontRight
+[2020.06.15-19.34.08:775][491]LogTemp: Resetting audio stream to device id 
+[2020.06.15-19.34.08:814][491]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.15-19.34.08:814][491]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.15-19.34.08:814][491]LogAudioMixer: Display: Is Default: Yes
+[2020.06.15-19.34.08:814][491]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.15-19.34.08:814][491]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.15-19.34.08:814][491]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.15-19.34.08:814][491]LogAudioMixer: Display: Channel Order:
+[2020.06.15-19.34.08:814][491]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.15-19.34.08:814][491]LogAudioMixer: Display: 1: FrontRight
+[2020.06.16-03.31.35:260][492]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2020.06.16-03.31.35:268][492]LogTemp: Resetting audio stream to device id 
+[2020.06.16-03.31.42:920][492]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.16-03.31.42:920][492]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.16-03.31.42:920][492]LogAudioMixer: Display: Is Default: Yes
+[2020.06.16-03.31.42:920][492]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.16-03.31.42:920][492]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.16-03.31.42:920][492]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.16-03.31.42:920][492]LogAudioMixer: Display: Channel Order:
+[2020.06.16-03.31.42:920][492]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.16-03.31.42:920][492]LogAudioMixer: Display: 1: FrontRight
+[2020.06.16-03.31.43:052][493]LogTemp: Resetting audio stream to device id 
+[2020.06.16-03.31.43:154][493]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.16-03.31.43:154][493]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.16-03.31.43:154][493]LogAudioMixer: Display: Is Default: Yes
+[2020.06.16-03.31.43:154][493]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.16-03.31.43:154][493]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.16-03.31.43:154][493]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.16-03.31.43:154][493]LogAudioMixer: Display: Channel Order:
+[2020.06.16-03.31.43:154][493]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.16-03.31.43:154][493]LogAudioMixer: Display: 1: FrontRight
+[2020.06.16-03.31.43:185][494]LogHttp: Warning: 0000020F09429BC0: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBB2C1A03-444E-101C-621C-659F09041275%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=564982ea4d021b4ccef5168555103dcf%7C1fc957810f6546489d8fcbb061a58ee3%7Ce57284d8-c632-4f5b-bbe7-b91ec9719f45&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.06.16-03.31.43:185][494]LogHttp: Warning: 0000020F09429BC0: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.06.16-03.31.43:185][494]LogHttp: Warning: 0000020F09429BC0: libcurl info message cache 0 (Connection 30 seems to be dead!)
+[2020.06.16-03.31.43:185][494]LogHttp: Warning: 0000020F09429BC0: libcurl info message cache 1 (Closing connection 30)
+[2020.06.16-03.31.43:185][494]LogHttp: Warning: 0000020F09429BC0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2020.06.16-03.31.43:185][494]LogHttp: Warning: 0000020F09429BC0: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.06.16-03.31.43:185][494]LogHttp: Warning: 0000020F09429BC0: libcurl info message cache 4 (Closing connection 31)
+[2020.06.16-03.31.43:185][494]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBB2C1A03-444E-101C-621C-659F09041275%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=564982ea4d021b4ccef5168555103dcf%7C1fc957810f6546489d8fcbb061a58ee3%7Ce57284d8-c632-4f5b-bbe7-b91ec9719f45&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2020.06.16-03.33.49:826][871]LogHttp: Warning: 0000020EC98E6840: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBB2C1A03-444E-101C-621C-659F09041275%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=564982ea4d021b4ccef5168555103dcf%7C1fc957810f6546489d8fcbb061a58ee3%7Ce57284d8-c632-4f5b-bbe7-b91ec9719f45&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2020.06.16-03.33.49:826][871]LogHttp: Warning: 0000020EC98E6840: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2020.06.16-03.33.49:826][871]LogHttp: Warning: 0000020EC98E6840: libcurl info message cache 0 (Could not resolve host: datarouter.ol.epicgames.com)
+[2020.06.16-03.33.49:826][871]LogHttp: Warning: 0000020EC98E6840: libcurl info message cache 1 (Closing connection 32)
+[2020.06.16-03.33.50:164][872]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBB2C1A03-444E-101C-621C-659F09041275%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.24.3-11590370%2B%2B%2BUE4%2BRelease-4.24&UserID=564982ea4d021b4ccef5168555103dcf%7C1fc957810f6546489d8fcbb061a58ee3%7Ce57284d8-c632-4f5b-bbe7-b91ec9719f45&AppEnvironment=datacollector-binary&UploadType=eteventstream
