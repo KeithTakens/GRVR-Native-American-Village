@@ -1,0 +1,1410 @@
+﻿Log file open, 06/24/20 13:21:22
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GRVRMuseumProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.103849
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=blazingvortex -epicuserid=1fc957810f6546489d8fcbb061a58ee3 -epiclocale=en
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[vr.InstancedStereo:1]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[r.HZBOcclusion:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[r.SSR.MaxRoughness:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[r.rhicmdbypass:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.24-17.21.22:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.06.24-17.21.22:532][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.24-17.21.22:532][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.24-17.21.22:535][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.24-17.21.22:535][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.24-17.21.22:536][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.24-17.21.22:536][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.24-17.21.22:536][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.06.24-17.21.22:548][  0]LogHAL: Display: Platform has ~ 32 GB [34297274368 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.06.24-17.21.22:548][  0]LogInit: Going up to parent DeviceProfile []
+[2020.06.24-17.21.22:548][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:3]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:0]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:0]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:0]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.LensFlareQuality:0]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:0]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.BloomQuality:1]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:0]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.06.24-17.21.22:548][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:548][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:4]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SSR.Quality:0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SceneColorFormat:2]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.06.24-17.21.22:549][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.06.24-17.21.22:550][  0]LogInit: Computer: DESKTOP-CDEC9E2
+[2020.06.24-17.21.22:550][  0]LogInit: User: KeithTakens
+[2020.06.24-17.21.22:550][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.06.24-17.21.22:550][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.06.24-17.21.22:550][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.06.24-17.21.22:550][  0]LogMemory: Platform Memory Stats for Windows
+[2020.06.24-17.21.22:550][  0]LogMemory: Process Physical Memory: 104.63 MB used, 104.63 MB peak
+[2020.06.24-17.21.22:550][  0]LogMemory: Process Virtual Memory: 100.54 MB used, 100.54 MB peak
+[2020.06.24-17.21.22:550][  0]LogMemory: Physical Memory: 7782.85 MB used,  24925.58 MB free, 32708.43 MB total
+[2020.06.24-17.21.22:550][  0]LogMemory: Virtual Memory: 5137.56 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.06.24-17.21.22:553][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.06.24-17.21.22:567][  0]LogInit: Using OS detected language (en-US).
+[2020.06.24-17.21.22:567][  0]LogInit: Using OS detected locale (en-US).
+[2020.06.24-17.21.22:567][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.06.24-17.21.22:715][  0]LogInit: Setting process to per monitor DPI aware
+[2020.06.24-17.21.22:765][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.06.24-17.21.22:765][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.06.24-17.21.22:951][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.06.24-17.21.22:951][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.06.24-17.21.22:951][  0]LogD3D11RHI: D3D11 adapters:
+[2020.06.24-17.21.23:007][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.06.24-17.21.23:007][  0]LogD3D11RHI:       8079/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2020.06.24-17.21.23:010][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.06.24-17.21.23:010][  0]LogD3D11RHI:       0/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.06.24-17.21.23:010][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.06.24-17.21.23:015][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.06.24-17.21.23:015][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.06.24-17.21.23:015][  0]LogWindows: EnumDisplayDevices:
+[2020.06.24-17.21.23:015][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.06.24-17.21.23:016][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.06.24-17.21.23:016][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.06.24-17.21.23:016][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.06.24-17.21.23:016][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.06.24-17.21.23:016][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.06.24-17.21.23:016][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.06.24-17.21.23:016][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.06.24-17.21.23:016][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.06.24-17.21.23:057][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.06.24-17.21.23:058][  0]LogD3D11RHI: Async texture creation enabled
+[2020.06.24-17.21.23:073][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.06.24-17.21.23:367][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.06.24-17.21.23:398][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.06.24-17.21.23:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.06.24-17.21.23:417][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.06.24-17.21.23:425][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.06.24-17.21.23:433][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.06.24-17.21.23:441][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.06.24-17.21.23:449][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.06.24-17.21.23:457][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.06.24-17.21.23:464][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.06.24-17.21.23:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.06.24-17.21.23:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.06.24-17.21.23:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.06.24-17.21.23:507][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.06.24-17.21.23:515][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.06.24-17.21.23:523][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.06.24-17.21.23:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.06.24-17.21.23:537][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.06.24-17.21.23:538][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.06.24-17.21.23:541][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.06.24-17.21.23:563][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Intermediate/Shaders/WorkingDirectory/9452/).
+[2020.06.24-17.21.23:563][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Keith Takens/AppData/Local/Temp/UnrealShaderWorkingDir/756FABE2477247E636BA97836E1817EB/'.
+[2020.06.24-17.21.23:563][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.06.24-17.21.23:563][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.06.24-17.21.23:563][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.06.24-17.21.24:220][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.06.24-17.21.24:282][  0]LogDerivedDataCache: Loaded boot cache 0.06s 100MB C:/Users/Keith Takens/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.24-17.21.24:282][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Keith Takens/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.06.24-17.21.24:282][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.06.24-17.21.24:282][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.06.24-17.21.24:282][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.24-17.21.24:282][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.06.24-17.21.24:291][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.06.24-17.21.24:291][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.06.24-17.21.24:291][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.06.24-17.21.24:292][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Keith Takens/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.06.24-17.21.24:292][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.06.24-17.21.24:292][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.06.24-17.21.24:318][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.06.24-17.21.24:320][  0]LogSlate: Using FreeType 2.10.0
+[2020.06.24-17.21.24:321][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.06.24-17.21.24:368][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.06.24-17.21.24:635][  0]LogInit: Selected Device Profile: [Windows]
+[2020.06.24-17.21.24:778][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.06.24-17.21.24:778][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.06.24-17.21.24:778][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.06.24-17.21.24:778][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.06.24-17.21.24:778][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.06.24-17.21.24:788][  0]LogNetVersion: GRVRMuseumProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1871045798)
+[2020.06.24-17.21.26:057][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.373344 seconds
+[2020.06.24-17.21.26:064][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.06.24-17.21.26:064][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.06.24-17.21.26:064][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.06.24-17.21.26:447][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.06.24-17.21.26:449][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.06.24-17.21.26:500][  0]SourceControl: Source control is disabled
+[2020.06.24-17.21.26:500][  0]SourceControl: Source control is disabled
+[2020.06.24-17.21.26:502][  0]SourceControl: Source control is disabled
+[2020.06.24-17.21.26:503][  0]SourceControl: Source control is disabled
+[2020.06.24-17.21.26:504][  0]SourceControl: Source control is disabled
+[2020.06.24-17.21.26:602][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.06.24-17.21.26:612][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.24-17.21.26:612][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.06.24-17.21.26:689][  0]LogOcInput: OculusInput pre-init called
+[2020.06.24-17.21.26:696][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.06.24-17.21.26:696][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.06.24-17.21.26:755][  0]LogEngine: Initializing Engine...
+[2020.06.24-17.21.26:756][  0]LogHMD: SteamVR initialized.  Driver: lighthouse  Display: LHR-C33E8F93
+[2020.06.24-17.21.26:757][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.06.24-17.21.27:064][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.06.24-17.21.27:070][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.06.24-17.21.27:076][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.24-17.21.27:076][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.24-17.21.27:076][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.24-17.21.27:076][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.24-17.21.27:076][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.24-17.21.27:076][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.24-17.21.27:076][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.24-17.21.27:076][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.24-17.21.27:076][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.24-17.21.27:076][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.24-17.21.27:117][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.24-17.21.27:117][  0]LogAudioMixer: Display: Name: HTC-VIVE (NVIDIA High Definition Audio)
+[2020.06.24-17.21.27:117][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.06.24-17.21.27:117][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.24-17.21.27:117][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.24-17.21.27:117][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.24-17.21.27:118][  0]LogAudioMixer: Display: Channel Order:
+[2020.06.24-17.21.27:118][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.24-17.21.27:118][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.06.24-17.21.27:135][  0]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2020.06.24-17.21.27:139][  0]LogInit: FAudioDevice initialized.
+[2020.06.24-17.21.27:139][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.06.24-17.21.27:224][  0]LogDerivedDataCache: Saved boot cache 0.08s 100MB C:/Users/Keith Takens/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.06.24-17.21.27:231][  0]LogInit: Texture streaming: Enabled
+[2020.06.24-17.21.27:241][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.06.24-17.21.27:241][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.06.24-17.21.27:243][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.06.24-17.21.27:346][  0]LogInit: Transaction tracking system initialized
+[2020.06.24-17.21.27:355][  0]BlueprintLog: New page: Editor Load
+[2020.06.24-17.21.27:385][  0]LocalizationService: Localization service is disabled
+[2020.06.24-17.21.27:814][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.06.24-17.21.27:814][  0]LogCook: Display: Mobile HDR setting 1
+[2020.06.24-17.21.27:880][  0]LogFileCache: Scanning file cache for directory 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/' took 0.04s
+[2020.06.24-17.21.28:372][  0]SourceControl: Source control is disabled
+[2020.06.24-17.21.28:373][  0]Cmd: MAP LOAD FILE="E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/VirtualRealityBP/Maps/StartupMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.24-17.21.28:373][  0]LightingResults: New page: Lighting Build
+[2020.06.24-17.21.28:373][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.06.24-17.21.28:374][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.24-17.21.28:374][  0]MapCheck: New page: Map Check
+[2020.06.24-17.21.28:374][  0]LightingResults: New page: Lighting Build
+[2020.06.24-17.21.28:397][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.06.24-17.21.29:274][  0]LogAIModule: Creating AISystem for world StartupMap
+[2020.06.24-17.21.29:294][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.24-17.21.29:317][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2020.06.24-17.21.29:317][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.24-17.21.29:318][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.235ms to complete.
+[2020.06.24-17.21.29:318][  0]LogFileHelpers: Loading map 'StartupMap' took 0.945
+[2020.06.24-17.21.30:011][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.24-17.21.30:023][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.24-17.21.30:029][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.24-17.21.30:035][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.24-17.21.30:124][  0]LogCollectionManager: Loaded 0 collections in 0.010666 seconds
+[2020.06.24-17.21.30:203][  0]LogFileCache: Scanning file cache for directory 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Collections/' took 0.00s
+[2020.06.24-17.21.30:203][  0]LogFileCache: Scanning file cache for directory 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/Developers/KeithTakens/Collections/' took 0.00s
+[2020.06.24-17.21.30:203][  0]LogFileCache: Scanning file cache for directory 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/Collections/' took 0.00s
+[2020.06.24-17.21.30:203][  0]LogContentBrowser: Native class hierarchy populated in 0.0081 seconds. Added 3015 classes and 717 folders.
+[2020.06.24-17.21.30:260][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.06.24-17.21.31:453][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.24-17.21.31:557][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.06.24-17.21.32:669][  0]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.06.24-17.21.32:672][  0]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.06.24-17.21.32:736][  0]LogSlate: Took 0.025553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.06.24-17.21.32:942][  0]LogRenderer: Reallocating scene render targets to support 1196x696 Format 26 NumSamples 1 (Frame:1).
+[2020.06.24-17.21.33:077][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.06.24-17.21.33:077][  0]LogLoad: (Engine Initialization) Total time: 12.59 seconds
+[2020.06.24-17.21.33:077][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.06.24-17.21.33:086][  0]LogSteamVRInputDevice: Display: SteamVR runtime 1.5.17 loaded.
+[2020.06.24-17.21.33:087][  0]LogSteamVRInputDevice: Display: Action Manifest Path: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings/steamvr_manifest.json
+[2020.06.24-17.21.33:087][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings
+[2020.06.24-17.21.33:126][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings
+[2020.06.24-17.21.33:251][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2020.06.24-17.21.33:271][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [9452][application.generated.ue.virtual-reality-bp-game-template-11590370.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2020.06.24-17.21.33:271][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings/steamvr_manifest.json
+[2020.06.24-17.21.33:271][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special1
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special2
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special3
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special4
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special5
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special6
+[2020.06.24-17.21.33:272][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special7
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special8
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.24-17.21.33:273][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.24-17.21.33:274][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:275][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.24-17.21.33:275][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:275][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.24-17.21.33:275][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:275][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.24-17.21.33:275][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:275][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.24-17.21.33:275][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:275][  0]LogSteamVRInputDevice: Display: Action Manifest Path: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings/steamvr_manifest.json
+[2020.06.24-17.21.33:275][  0]LogSteamVRInputDevice: Display: Controller Bindings Path: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings
+[2020.06.24-17.21.33:278][  0]LogSteamVRInputDevice: Searching for Controller Bindings files at: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Registering Application Manifest E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/steamvr_ue_editor_app.json : VRApplicationError_None
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Editor Application [9452][application.generated.ue.virtual-reality-bp-game-template-11590370.ue4editor.exe] identified to SteamVR: VRApplicationError_None
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Trying to load Action Manifest from: E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Config/SteamVRBindings/steamvr_manifest.json
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Manifest Path Result: Success
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting main action set: Success
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerleft
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/controllerright
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special1
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special2
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special3
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special4
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special5
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:284][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special6
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special7
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/special8
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonleft
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/skeletonright
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateleft
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/out/vibrateright
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/open_console
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportRight
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/TeleportLeft
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabLeft
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/GrabRight
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbLeft_X,MotionControllerThumbLeft_Y X Y_axis2d
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:285][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.24-17.21.33:286][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:286][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.24-17.21.33:286][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:286][  0]LogSteamVRInputDevice: Display: Retrieving Action Handle: /actions/main/in/MotionControllerThumbRight_X,MotionControllerThumbRight_Y X Y_axis2d
+[2020.06.24-17.21.33:286][  0]LogSteamVRInputDevice: Display: [STEAMVR INPUT] Setting Action Handle Path Result: Success
+[2020.06.24-17.21.33:389][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.06.24-17.21.33:582][  0]LogSlate: Took 0.036985 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.24-17.21.34:113][  5]LogAssetRegistry: Asset discovery search completed in 9.7457 seconds
+[2020.06.24-17.21.34:116][  5]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2020.06.24-17.21.44:072][184]LogSlate: Took 0.000130 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeComponent_11', 1530.000122,1020.000000 vs 1530.000000,1020.000000.
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeComponent_12', 0.000000,1530.000122 vs 0.000000,1530.000000.
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeComponent_13', 510.000000,1530.000122 vs 510.000000,1530.000000.
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeComponent_14', 1020.000000,1530.000122 vs 1020.000000,1530.000000.
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeComponent_15', 1530.000122,1530.000122 vs 1530.000000,1530.000000.
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeComponent_3', 1530.000122,0.000000 vs 1530.000000,0.000000.
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: LandscapeComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeComponent_7', 1530.000122,510.000000 vs 1530.000000,510.000000.
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_19', 1530.000122,0.000000 vs 1530.000000,0.000000.
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_23', 1530.000122,510.000000 vs 1530.000000,510.000000.
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_27', 1530.000122,1020.000000 vs 1530.000000,1020.000000.
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_28', 0.000000,1530.000122 vs 0.000000,1530.000000.
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_29', 510.000000,1530.000122 vs 510.000000,1530.000000.
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_30', 1020.000000,1530.000122 vs 1020.000000,1530.000000.
+[2020.06.24-17.22.00:785][184]LogLandscape: Warning: ULandscapeHeightfieldCollisionComponent RelativeLocation disagrees with its section base, attempted automated fix: 'LandscapeHeightfieldCollisionComponent /Game/GrandRiver.GrandRiver:PersistentLevel.Landscape_0.LandscapeHeightfieldCollisionComponent_31', 1530.000122,1530.000122 vs 1530.000000,1530.000000.
+[2020.06.24-17.22.00:825][184]LogAIModule: Creating AISystem for world GrandRiver
+[2020.06.24-17.22.01:028][184]LogAssetEditorSubsystem: Opening Asset editor for World /Game/GrandRiver.GrandRiver
+[2020.06.24-17.22.01:065][184]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2020.06.24-17.22.01:093][184]Cmd: MAP LOAD FILE="E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/GrandRiver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.06.24-17.22.01:093][184]LightingResults: New page: Lighting Build
+[2020.06.24-17.22.01:094][184]LoadErrors: New page: Loading map: GrandRiver.umap
+[2020.06.24-17.22.01:094][184]LogWorld: UWorld::CleanupWorld for StartupMap, bSessionEnded=true, bCleanupResources=true
+[2020.06.24-17.22.01:094][184]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.24-17.22.01:095][184]MapCheck: New page: Map Check
+[2020.06.24-17.22.01:095][184]LightingResults: New page: Lighting Build
+[2020.06.24-17.22.01:116][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2020.06.24-17.22.01:585][184]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.06.24-17.22.01:927][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.06.24-17.22.01:967][184]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.06.24-17.22.01:967][184]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.173ms to complete.
+[2020.06.24-17.22.01:967][184]LogFileHelpers: Loading map 'GrandRiver' took 0.890
+[2020.06.24-17.22.53:114][280]LogTemp: Repeating last play command: VR Preview
+[2020.06.24-17.22.53:459][280]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-17.22.53:495][280]PIE: New page: PIE session: GrandRiver (Jun 24, 2020, 9:22:53 AM)
+[2020.06.24-17.22.53:518][280]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2020.06.24-17.22.53:540][280]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2020.06.24-17.22.53:564][280]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GrandRiver
+[2020.06.24-17.23.10:120][280]LogPlayLevel: PIE: StaticDuplicateObject took: (16.555019s)
+[2020.06.24-17.23.10:121][280]LogAIModule: Creating AISystem for world GrandRiver
+[2020.06.24-17.23.10:121][280]LogPlayLevel: PIE: World Init took: (0.000968s)
+[2020.06.24-17.23.10:121][280]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GrandRiver.GrandRiver to /Game/UEDPIE_0_GrandRiver.GrandRiver (16.556524s)
+[2020.06.24-17.23.10:143][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2020.06.24-17.23.10:145][280]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.24-17.23.10:145][280]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.24-17.23.10:145][280]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.24-17.23.10:145][280]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.24-17.23.10:145][280]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.24-17.23.10:145][280]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.24-17.23.10:145][280]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.24-17.23.10:145][280]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.24-17.23.10:146][280]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.24-17.23.10:146][280]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.24-17.23.10:181][280]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.24-17.23.10:181][280]LogAudioMixer: Display: Name: HTC-VIVE (NVIDIA High Definition Audio)
+[2020.06.24-17.23.10:181][280]LogAudioMixer: Display: Is Default: Yes
+[2020.06.24-17.23.10:181][280]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.24-17.23.10:181][280]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.24-17.23.10:181][280]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.24-17.23.10:181][280]LogAudioMixer: Display: Channel Order:
+[2020.06.24-17.23.10:181][280]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.24-17.23.10:181][280]LogAudioMixer: Display: 1: FrontRight
+[2020.06.24-17.23.10:192][280]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2020.06.24-17.23.10:194][280]LogInit: FAudioDevice initialized.
+[2020.06.24-17.23.10:202][280]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.24-17.23.10:271][280]LogLoad: Game class is 'GameModeBase'
+[2020.06.24-17.23.10:328][280]LogWorld: Bringing World /Game/UEDPIE_0_GrandRiver.GrandRiver up for play (max tick rate 0) at 2020.06.24-13.23.10
+[2020.06.24-17.23.10:328][280]LogWorld: Bringing up level for play took: 0.014610
+[2020.06.24-17.23.10:328][280]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2020.06.24-17.23.10:413][280]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2020.06.24-17.23.10:587][280]PIE: Play in editor start time for /Game/UEDPIE_0_GrandRiver 16.421
+[2020.06.24-17.23.10:678][281]LogRenderer: Reallocating scene render targets to support 3704x2056 Format 26 NumSamples 1 (Frame:1).
+[2020.06.24-17.23.10:709][282]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.06.24-17.23.12:338][366]LogCore: Display: AppLifetime: Application will enter background
+[2020.06.24-17.23.13:699][468]LogCore: Display: AppLifetime: Application has entered foreground
+[2020.06.24-17.24.04:669][ 19]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.24-17.24.04:679][ 19]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.24-17.24.04:699][ 19]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.24-17.24.04:734][ 19]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.24-17.24.04:734][ 19]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GrandRiver
+[2020.06.24-17.24.05:133][ 19]LogSlate: Window 'GRVRMuseumProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.24-17.24.05:136][ 19]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.24-17.24.05:136][ 19]LogWorld: UWorld::CleanupWorld for GrandRiver, bSessionEnded=true, bCleanupResources=true
+[2020.06.24-17.24.05:137][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.24-17.24.05:145][ 19]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.24-17.24.05:149][ 19]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.24-17.24.05:177][ 19]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.24-17.24.05:215][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2020.06.24-17.24.05:237][ 20]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2020.06.24-17.26.37:668][860]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.26.39:915][106]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.28.31:786][656]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.24-17.28.32:341][706]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.24-17.30.23:727][937]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.30.26:471][187]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.30.31:009][706]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.30.39:289][634]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.30.42:813][ 47]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.31.37:004][274]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.24-17.31.40:222][619]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.24-17.31.44:480][ 88]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.24-17.32.55:863][425]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2020.06.24-17.32.56:663][425]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.06.24-17.32.56:684][425]LogTexture: Display: Building textures: Texture2D_1 (BGRA8, 512X512)
+[2020.06.24-17.32.56:688][425]LogTexture: Display: Building textures: Texture2D_2 (BGRA8, 512X512)
+[2020.06.24-17.32.56:693][425]LogTexture: Display: Building textures: Texture2D_3 (BGRA8, 512X512)
+[2020.06.24-17.32.56:697][425]LogTexture: Display: Building textures: Texture2D_4 (BGRA8, 512X512)
+[2020.06.24-17.32.56:702][425]LogTexture: Display: Building textures: Texture2D_5 (BGRA8, 512X512)
+[2020.06.24-17.32.56:706][425]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.06.24-17.32.56:711][425]LogTexture: Display: Building textures: Texture2D_7 (BGRA8, 512X512)
+[2020.06.24-17.32.56:715][425]LogTexture: Display: Building textures: Texture2D_8 (BGRA8, 512X512)
+[2020.06.24-17.32.56:720][425]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2020.06.24-17.32.56:725][425]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2020.06.24-17.32.56:729][425]LogTexture: Display: Building textures: Texture2D_11 (BGRA8, 512X512)
+[2020.06.24-17.32.56:733][425]LogTexture: Display: Building textures: Texture2D_12 (BGRA8, 512X512)
+[2020.06.24-17.32.56:737][425]LogTexture: Display: Building textures: Texture2D_13 (BGRA8, 512X512)
+[2020.06.24-17.32.56:741][425]LogTexture: Display: Building textures: Texture2D_14 (BGRA8, 512X512)
+[2020.06.24-17.32.56:745][425]LogTexture: Display: Building textures: Texture2D_15 (BGRA8, 512X512)
+[2020.06.24-17.32.59:164][425]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/GrandRiver_Auto1B4CBB8C443B0E936E13CE09D1FDC0FB5.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Autosaves/Game/GrandRiver_Auto1.umap'
+[2020.06.24-17.32.59:181][425]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GrandRiver' took 3.340
+[2020.06.24-17.32.59:181][425]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 3.340
+[2020.06.24-17.33.08:300][510]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.33.09:634][663]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.33.17:570][524]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.24-17.33.18:127][588]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.24-17.33.21:171][934]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.24-17.33.21:640][987]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.24-17.33.22:174][ 49]Cmd: TRANSACTION UNDO
+[2020.06.24-17.33.22:174][ 49]LogEditorTransaction: Undo Move Actors
+[2020.06.24-17.33.22:430][ 55]Cmd: TRANSACTION UNDO
+[2020.06.24-17.33.22:430][ 55]LogEditorTransaction: Undo Move Actors
+[2020.06.24-17.33.22:729][ 63]Cmd: TRANSACTION UNDO
+[2020.06.24-17.33.22:729][ 63]LogEditorTransaction: Undo Select Brush Surface
+[2020.06.24-17.33.23:120][100]Cmd: TRANSACTION UNDO
+[2020.06.24-17.33.23:120][100]LogEditorTransaction: Undo Clicking on Actors
+[2020.06.24-17.33.23:474][139]Cmd: TRANSACTION UNDO
+[2020.06.24-17.33.23:474][139]LogEditorTransaction: Undo Move Actors
+[2020.06.24-17.33.23:838][156]Cmd: TRANSACTION UNDO
+[2020.06.24-17.33.23:838][156]LogEditorTransaction: Undo Move Actors
+[2020.06.24-17.33.24:985][284]Cmd: TRANSACTION UNDO
+[2020.06.24-17.33.24:985][284]LogEditorTransaction: Undo Move Actors
+[2020.06.24-17.33.25:413][325]Cmd: TRANSACTION UNDO
+[2020.06.24-17.33.25:413][325]LogEditorTransaction: Undo Move Actors
+[2020.06.24-17.33.31:376][993]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.33.52:057][292]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.33.55:775][692]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.34.16:035][ 21]LogTemp: Repeating last play command: VR Preview
+[2020.06.24-17.34.16:382][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-17.34.16:382][ 21]PIE: New page: PIE session: GrandRiver (Jun 24, 2020, 9:34:16 AM)
+[2020.06.24-17.34.16:383][ 21]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GrandRiver
+[2020.06.24-17.34.17:005][ 21]LogPlayLevel: PIE: StaticDuplicateObject took: (0.622761s)
+[2020.06.24-17.34.17:006][ 21]LogAIModule: Creating AISystem for world GrandRiver
+[2020.06.24-17.34.17:006][ 21]LogPlayLevel: PIE: World Init took: (0.001001s)
+[2020.06.24-17.34.17:006][ 21]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GrandRiver.GrandRiver to /Game/UEDPIE_0_GrandRiver.GrandRiver (0.623975s)
+[2020.06.24-17.34.17:033][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.06.24-17.34.17:037][ 21]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.24-17.34.17:037][ 21]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.24-17.34.17:037][ 21]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.24-17.34.17:037][ 21]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.24-17.34.17:037][ 21]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.24-17.34.17:037][ 21]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.24-17.34.17:037][ 21]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.24-17.34.17:037][ 21]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.24-17.34.17:038][ 21]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.24-17.34.17:038][ 21]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.24-17.34.17:075][ 21]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.24-17.34.17:075][ 21]LogAudioMixer: Display: Name: HTC-VIVE (NVIDIA High Definition Audio)
+[2020.06.24-17.34.17:075][ 21]LogAudioMixer: Display: Is Default: Yes
+[2020.06.24-17.34.17:075][ 21]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.24-17.34.17:075][ 21]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.24-17.34.17:075][ 21]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.24-17.34.17:075][ 21]LogAudioMixer: Display: Channel Order:
+[2020.06.24-17.34.17:075][ 21]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.24-17.34.17:075][ 21]LogAudioMixer: Display: 1: FrontRight
+[2020.06.24-17.34.17:086][ 21]LogAudioMixer: Display: Using Audio Device HTC-VIVE (NVIDIA High Definition Audio)
+[2020.06.24-17.34.17:088][ 21]LogInit: FAudioDevice initialized.
+[2020.06.24-17.34.17:099][ 21]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.24-17.34.17:139][ 21]LogLoad: Game class is 'GameModeBase'
+[2020.06.24-17.34.17:147][ 21]LogWorld: Bringing World /Game/UEDPIE_0_GrandRiver.GrandRiver up for play (max tick rate 0) at 2020.06.24-13.34.17
+[2020.06.24-17.34.17:147][ 21]LogWorld: Bringing up level for play took: 0.006706
+[2020.06.24-17.34.17:147][ 21]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2020.06.24-17.34.17:154][ 21]PIE: Play in editor start time for /Game/UEDPIE_0_GrandRiver 0.987
+[2020.06.24-17.34.17:205][ 23]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.06.24-17.34.50:408][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.24-17.34.50:412][995]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.24-17.34.50:432][995]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.24-17.34.50:447][995]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.24-17.34.50:447][995]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GrandRiver
+[2020.06.24-17.34.50:846][995]LogSlate: Window 'GRVRMuseumProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.24-17.34.50:848][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.24-17.34.50:848][995]LogWorld: UWorld::CleanupWorld for GrandRiver, bSessionEnded=true, bCleanupResources=true
+[2020.06.24-17.34.50:849][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.24-17.34.50:859][995]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.24-17.34.50:863][995]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.24-17.34.50:888][995]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.24-17.34.50:899][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.06.24-17.34.50:925][996]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2020.06.24-17.36.57:103][953]LogActorFactory: Actor Factory created Cube
+[2020.06.24-17.36.57:901][ 35]LogActorFactory: Actor Factory created Cube
+[2020.06.24-17.36.58:339][ 73]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.37.11:453][584]Cmd: DELETE
+[2020.06.24-17.37.11:453][584]Cmd: ACTOR DELETE
+[2020.06.24-17.37.11:583][584]LogEditorActor: Deleted Actor: StaticMeshActor
+[2020.06.24-17.37.11:605][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2020.06.24-17.37.11:607][584]LogEditorActor: Deleted 1 Actors (0.072 secs)
+[2020.06.24-17.37.13:986][839]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.06.24-17.41.19:713][181]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.41.22:107][457]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.41.22:974][558]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.41.26:587][900]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.41.37:648][186]Cmd: TRANSACTION UNDO
+[2020.06.24-17.41.37:648][186]LogEditorTransaction: Undo Set Scale
+[2020.06.24-17.41.53:517][ 19]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.42.22:159][430]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2020.06.24-17.42.27:029][994]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.42.29:827][313]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.42.30:934][429]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.43.08:935][838]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2020.06.24-17.43.17:570][864]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-17.43.44:668][945]Cmd: TRANSACTION UNDO
+[2020.06.24-17.43.44:669][945]LogEditorTransaction: Undo Move Actors
+[2020.06.24-17.44.22:877][191]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.06.24-17.44.30:111][ 35]LogEditorViewport: Clicking on Actor (context menu): Landscape (Landscape)
+[2020.06.24-17.44.32:177][235]LogEditorViewport: Clicking on Actor (CTRL LMB): Landscape (Landscape)
+[2020.06.24-17.44.45:747][618]Cmd: TRANSACTION UNDO
+[2020.06.24-17.44.45:747][618]LogEditorTransaction: Undo Move Actors
+[2020.06.24-17.44.46:170][618]LogGeometryMode: Warning: Unable to find 8 Vertex(s) in new BSP
+[2020.06.24-17.44.46:170][618]LogGeometryMode: Warning: Unable to resolve BoxBrush Brush in new BSP, see above
+[2020.06.24-17.44.46:170][618]LogGeometryMode: Warning: Unable to find all previously selected geometry data, resetting selection
+[2020.06.24-17.44.50:648][ 28]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.06.24-17.45.14:907][762]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2020.06.24-17.46.10:941][755]Cmd: EDCALLBACK SURFPROPS
+[2020.06.24-17.47.26:833][149]Cmd: TRANSACTION UNDO
+[2020.06.24-17.47.26:833][149]LogEditorTransaction: Undo Landscape Editing: Flatten
+[2020.06.24-17.47.26:910][149]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2020.06.24-17.48.12:340][185]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.06.24-17.48.12:922][235]LogEditorViewport: Clicking Background
+[2020.06.24-17.48.14:604][344]LogEditorViewport: Clicking Background
+[2020.06.24-17.48.15:103][395]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.06.24-17.48.41:344][173]LogEditorViewport: Clicking on Actor (double click): Landscape (Landscape)
+[2020.06.24-17.48.41:999][232]LogEditorViewport: Clicking Background
+[2020.06.24-17.48.46:792][758]Cmd: TRANSACTION UNDO
+[2020.06.24-17.48.46:793][758]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.06.24-17.48.46:861][758]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2020.06.24-17.48.48:900][934]Cmd: TRANSACTION UNDO
+[2020.06.24-17.48.48:900][934]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.06.24-17.48.51:011][165]Cmd: TRANSACTION UNDO
+[2020.06.24-17.48.51:011][165]LogEditorTransaction: Undo Landscape Editing: Smooth
+[2020.06.24-17.49.04:049][659]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4328' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.04:049][659]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4328.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.04:049][659]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4329' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.04:049][659]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4329.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.04:049][659]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4330' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.04:049][659]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4330.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.04:049][659]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4331' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.04:049][659]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4331.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.04:050][659]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4332' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.04:050][659]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4332.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.05:126][780]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4327' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.05:126][780]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4327.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:066][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4250' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:066][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4250.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:066][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4251' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:066][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4251.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:066][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4252' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:066][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4252.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:066][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4253' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:066][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4253.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:066][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4254' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:066][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4254.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:066][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4255' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:066][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4255.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4256' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4256.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4257' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4257.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4258' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4258.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4259' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4259.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4260' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4260.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4261' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4261.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4262' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:067][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4262.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4263' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4263.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4264' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4264.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4265' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4265.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4266' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4266.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4267' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4267.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4268' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4268.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4269' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4269.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4270' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4270.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4271' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:068][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4271.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:069][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4272' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:069][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4272.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:069][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4273' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:069][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4273.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:069][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4274' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:069][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4274.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:069][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4275' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:069][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4275.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:069][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4276' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:069][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4276.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4277' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4277.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4278' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4278.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4279' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4279.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4280' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4280.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4281' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4281.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4282' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4282.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4283' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4283.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4284' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4284.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4285' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4285.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4286' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4286.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4287' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:084][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4287.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4288' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4288.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4289' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4289.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4290' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4290.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4291' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4291.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4292' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4292.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4293' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4293.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4294' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4294.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4295' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4295.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:085][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4296' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4296.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4297' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4297.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4298' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4298.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4299' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4299.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4300' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4300.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4301' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4301.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4302' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4302.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4303' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:086][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4303.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4304' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4304.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4305' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4305.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4306' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4306.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4307' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4307.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4308' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4308.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4309' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4309.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4310' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4310.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4311' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:087][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4311.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:096][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4312' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:096][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4312.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:096][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4313' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:096][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4313.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4314' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4314.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4315' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4315.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4316' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4316.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4317' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4317.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4318' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4318.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4319' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4319.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4320' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4320.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4321' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4321.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4322' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4322.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:097][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4323' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:098][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4323.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:098][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4324' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:098][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4324.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:098][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4325' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:098][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4325.BodySetup_0 when we are unable to.
+[2020.06.24-17.49.06:098][886]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4326' invalid (371 verts, 0 indices).
+[2020.06.24-17.49.06:098][886]LogPhysics: Warning: Attempt to build physics data for /Game/GrandRiver.GrandRiver:PersistentLevel.ModelComponent_4326.BodySetup_0 when we are unable to.
+[2020.06.24-17.54.01:523][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2020.06.24-17.54.02:018][532]LogTexture: Display: Building textures: Texture2D_6 (BGRA8, 512X512)
+[2020.06.24-17.54.02:023][532]LogTexture: Display: Building textures: Texture2D_9 (BGRA8, 512X512)
+[2020.06.24-17.54.02:028][532]LogTexture: Display: Building textures: Texture2D_10 (BGRA8, 512X512)
+[2020.06.24-17.54.04:150][532]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/GrandRiver_Auto22485270945C9A7B566C0EB81BD526C27.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Autosaves/Game/GrandRiver_Auto2.umap'
+[2020.06.24-17.54.04:158][532]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GrandRiver' took 2.677
+[2020.06.24-17.54.04:158][532]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.677
+[2020.06.24-17.59.31:366][596]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{96807745-5b3c-4d5c-a837-b3d9312447f1}.
+[2020.06.24-17.59.31:366][596]LogTemp: Resetting audio stream to device id 
+[2020.06.24-17.59.31:407][596]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.24-17.59.31:407][596]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.24-17.59.31:407][596]LogAudioMixer: Display: Is Default: Yes
+[2020.06.24-17.59.31:407][596]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.24-17.59.31:407][596]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.24-17.59.31:407][596]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.24-17.59.31:407][596]LogAudioMixer: Display: Channel Order:
+[2020.06.24-17.59.31:407][596]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.24-17.59.31:407][596]LogAudioMixer: Display: 1: FrontRight
+[2020.06.24-18.07.59:011][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2020.06.24-18.08.01:836][462]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/GrandRiver_Auto3834064574295F3C687940B9AB929C4EE.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Autosaves/Game/GrandRiver_Auto3.umap'
+[2020.06.24-18.08.01:841][462]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GrandRiver' took 2.852
+[2020.06.24-18.08.01:841][462]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.852
+[2020.06.24-18.55.43:299][ 61]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-18.55.51:764][970]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2020.06.24-18.57.14:557][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2020.06.24-18.57.18:561][322]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/GrandRiver_Auto402F53AA04C771867A3BAF6850BFAC6FC.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Autosaves/Game/GrandRiver_Auto4.umap'
+[2020.06.24-18.57.18:567][322]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/GrandRiver' took 4.031
+[2020.06.24-18.57.18:567][322]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.031
+[2020.06.24-19.03.05:341][202]LogTemp: Repeating last play command: VR Preview
+[2020.06.24-19.03.05:688][202]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2020.06.24-19.03.05:688][202]PIE: New page: PIE session: GrandRiver (Jun 24, 2020, 11:03:05 AM)
+[2020.06.24-19.03.05:689][202]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_GrandRiver
+[2020.06.24-19.03.09:377][202]LogPlayLevel: PIE: StaticDuplicateObject took: (3.688417s)
+[2020.06.24-19.03.09:378][202]LogAIModule: Creating AISystem for world GrandRiver
+[2020.06.24-19.03.09:379][202]LogPlayLevel: PIE: World Init took: (0.001095s)
+[2020.06.24-19.03.09:379][202]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/GrandRiver.GrandRiver to /Game/UEDPIE_0_GrandRiver.GrandRiver (3.689747s)
+[2020.06.24-19.03.09:399][202]LogUObjectHash: Compacting FUObjectHashTables data took   1.40ms
+[2020.06.24-19.03.09:408][202]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.06.24-19.03.09:408][202]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.06.24-19.03.09:408][202]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.06.24-19.03.09:408][202]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.06.24-19.03.09:408][202]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.06.24-19.03.09:408][202]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.06.24-19.03.09:408][202]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.06.24-19.03.09:408][202]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.06.24-19.03.09:409][202]LogAudio: Display: Using built-in audio occlusion.
+[2020.06.24-19.03.09:409][202]LogAudioMixer: Display: Initializing audio mixer.
+[2020.06.24-19.03.09:446][202]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.24-19.03.09:446][202]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.24-19.03.09:446][202]LogAudioMixer: Display: Is Default: Yes
+[2020.06.24-19.03.09:446][202]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.24-19.03.09:446][202]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.24-19.03.09:446][202]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.24-19.03.09:446][202]LogAudioMixer: Display: Channel Order:
+[2020.06.24-19.03.09:446][202]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.24-19.03.09:446][202]LogAudioMixer: Display: 1: FrontRight
+[2020.06.24-19.03.09:463][202]LogAudioMixer: Display: Using Audio Device Speakers (Realtek High Definition Audio)
+[2020.06.24-19.03.09:464][202]LogInit: FAudioDevice initialized.
+[2020.06.24-19.03.09:476][202]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.24-19.03.09:512][202]LogLoad: Game class is 'GameModeBase'
+[2020.06.24-19.03.09:524][202]LogWorld: Bringing World /Game/UEDPIE_0_GrandRiver.GrandRiver up for play (max tick rate 0) at 2020.06.24-15.03.09
+[2020.06.24-19.03.09:524][202]LogWorld: Bringing up level for play took: 0.010829
+[2020.06.24-19.03.09:524][202]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2020.06.24-19.03.09:527][202]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.06.24-19.03.09:544][202]LogOutputDevice: Warning: 
+
+Script Stack (5 frames):
+BP_MotionController_C.SetupRoomScaleOutline
+BP_MotionController_C.ExecuteUbergraph_BP_MotionController
+BP_MotionController_C.ReceiveBeginPlay
+MotionControllerPawn_C.ExecuteUbergraph_MotionControllerPawn
+MotionControllerPawn_C.ReceiveBeginPlay
+
+[2020.06.24-19.03.11:194][202]LogStats: FPlatformStackWalk::StackWalkAndDump -  1.650 s
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: === Handled ensure: ===
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: 
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Core/Private/Math/Matrix.cpp] [Line: 8]
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: Stack: 
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4ca59016 UE4Editor-Core.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4c45b21a UE4Editor-Core.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc48e29113 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc49715e9a UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc49750b3e UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bd342e8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf5a62f UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf7ec61 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf80cd2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf4edbb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf809ef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf80cd2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf4edbb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf809ef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf80cd2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf80644 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bd342e8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf80148 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc48ee7f18 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:194][202]LogOutputDevice: Error: [Callstack] 0x00007ffc48eb09df UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc48ebc7dd UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc48ee44fa UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc48eca850 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc495c5f3c UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc48f14926 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bfa4045 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bfa6516 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf80cd2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf4edbb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf809ef UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf80cd2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf80644 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bd342e8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4bf80148 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc48ee7f18 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc48eb09df UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc48ebc7dd UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4a1be2e2 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc495ce3b1 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc4a16942e UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc495ef1d5 UE4Editor-Engine.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc2a10245c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc2a122806 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc2a13d285 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc29c0a5f5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffc2a46e476 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ff6bec07f62 UE4Editor.exe!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ff6bec1c3ec UE4Editor.exe!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ff6bec1c4ca UE4Editor.exe!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ff6bec2ceae UE4Editor.exe!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ff6bec2fcbe UE4Editor.exe!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffca47d7bd4 KERNEL32.DLL!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: [Callstack] 0x00007ffca524ce51 ntdll.dll!UnknownFunction []
+[2020.06.24-19.03.11:195][202]LogOutputDevice: Error: 
+[2020.06.24-19.03.11:204][202]LogStats:                SubmitErrorReport -  0.000 s
+[2020.06.24-19.03.19:935][202]LogStats:                    SendNewReport -  8.730 s
+[2020.06.24-19.03.19:935][202]LogStats:             FDebug::EnsureFailed - 10.390 s
+[2020.06.24-19.03.19:935][202]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.06.24-19.03.19:935][202]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.06.24-19.03.19:935][202]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.06.24-19.03.19:935][202]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=-nan(ind) Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2020.06.24-19.03.19:937][202]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.06.24-19.03.19:937][202]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.06.24-19.03.19:937][202]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.06.24-19.03.19:937][202]LogUnrealMath: Error: FMatrix::InverseFast(), trying to invert a NIL matrix, this results in NaNs! Use Inverse() instead.
+[2020.06.24-19.03.19:937][202]LogBlueprint: Warning: SetRelativeScale3D : Invalid Scale entered (X=-nan(ind) Y=-nan(ind) Z=70.000). Resetting to 1.f.
+[2020.06.24-19.03.19:940][202]PIE: Play in editor start time for /Game/UEDPIE_0_GrandRiver 13.773
+[2020.06.24-19.03.19:977][202]LogTemp: Resetting audio stream to device id 
+[2020.06.24-19.03.20:016][202]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.24-19.03.20:016][202]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.24-19.03.20:016][202]LogAudioMixer: Display: Is Default: Yes
+[2020.06.24-19.03.20:016][202]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.24-19.03.20:016][202]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.24-19.03.20:016][202]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.24-19.03.20:016][202]LogAudioMixer: Display: Channel Order:
+[2020.06.24-19.03.20:016][202]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.24-19.03.20:016][202]LogAudioMixer: Display: 1: FrontRight
+[2020.06.24-19.03.20:033][202]LogTemp: Resetting audio stream to device id 
+[2020.06.24-19.03.20:072][202]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.06.24-19.03.20:072][202]LogAudioMixer: Display: Name: Speakers (Realtek High Definition Audio)
+[2020.06.24-19.03.20:072][202]LogAudioMixer: Display: Is Default: Yes
+[2020.06.24-19.03.20:072][202]LogAudioMixer: Display: Sample Rate: 48000
+[2020.06.24-19.03.20:072][202]LogAudioMixer: Display: Channel Count Used: 2
+[2020.06.24-19.03.20:072][202]LogAudioMixer: Display: Device Channel Count: 2
+[2020.06.24-19.03.20:072][202]LogAudioMixer: Display: Channel Order:
+[2020.06.24-19.03.20:072][202]LogAudioMixer: Display: 0: FrontLeft
+[2020.06.24-19.03.20:072][202]LogAudioMixer: Display: 1: FrontRight
+[2020.06.24-19.03.20:090][204]LogProfilingDebugging: Allocated a 1024 x 1024 texture for HMD canvas layer
+[2020.06.24-19.03.59:637][735]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.24-19.03.59:655][735]LogAudioMixer: Display: Flush succeeded in the source manager command queue (1).
+[2020.06.24-19.03.59:676][735]LogAudioMixer: Display: Flush succeeded the source manager command queue (2).
+[2020.06.24-19.03.59:693][735]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.06.24-19.03.59:694][735]LogWorld: BeginTearingDown for /Game/UEDPIE_0_GrandRiver
+[2020.06.24-19.04.00:075][735]LogSlate: Window 'GRVRMuseumProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2020.06.24-19.04.00:079][735]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.24-19.04.00:079][735]LogWorld: UWorld::CleanupWorld for GrandRiver, bSessionEnded=true, bCleanupResources=true
+[2020.06.24-19.04.00:079][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.24-19.04.00:089][735]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2020.06.24-19.04.00:103][735]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.06.24-19.04.00:157][735]LogAudioMixer: Display: No commands were queued while flushing the source manager.
+[2020.06.24-19.04.00:239][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2020.06.24-19.04.00:255][736]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2020.06.24-19.04.00:956][808]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrandRiver" FILE="E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/GrandRiver.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.24-19.04.00:978][808]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2020.06.24-19.04.05:391][808]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/GrandRiver6E3564F3482F82566236678DDDE262DC.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/GrandRiver.umap'
+[2020.06.24-19.04.05:456][808]AssetCheck: New page: Asset Save: GrandRiver
+[2020.06.24-19.04.05:457][808]LogContentValidation: Display: Validating World /Game/GrandRiver.GrandRiver
+[2020.06.24-19.04.28:137][525]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrandRiver" FILE="E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/GrandRiver.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.24-19.04.28:501][525]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.06.24-19.04.32:109][525]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/GrandRiverBD7A6F524B50472BD7F5ABB45BA25A24.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/GrandRiver.umap'
+[2020.06.24-19.04.32:155][525]AssetCheck: New page: Asset Save: GrandRiver
+[2020.06.24-19.04.32:155][525]LogContentValidation: Display: Validating World /Game/GrandRiver.GrandRiver
+[2020.06.24-20.38.45:279][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/GrandRiver" FILE="E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/GrandRiver.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.06.24-20.38.46:206][200]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2020.06.24-20.38.50:188][200]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/GrandRiverBCD5346643BA47BFB5622D8763AA7540.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/GrandRiver.umap'
+[2020.06.24-20.38.50:399][200]AssetCheck: New page: Asset Save: GrandRiver
+[2020.06.24-20.38.50:399][200]LogContentValidation: Display: Validating World /Game/GrandRiver.GrandRiver
