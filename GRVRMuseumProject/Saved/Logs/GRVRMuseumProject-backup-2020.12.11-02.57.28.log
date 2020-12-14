@@ -1,0 +1,866 @@
+﻿Log file open, 12/10/20 20:44:44
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GRVRMuseumProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.093031
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.24-CL-11590370
+LogInit: Engine Version: 4.24.3-11590370+++UE4+Release-4.24
+LogInit: Compatible Engine Version: 4.24.0-10570792+++UE4+Release-4.24
+LogInit: Net CL: 10570792
+LogInit: OS: Windows 10 (Release 2004) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1080
+LogInit: Compiled (64-bit): Feb 24 2020 15:39:18
+LogInit: Compiled with Visual C++: 19.16.27032.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.24
+LogInit: Command Line:  -EpicPortal -epicusername=blazingvortex -epicuserid=1fc957810f6546489d8fcbb061a58ee3 -epiclocale=en
+LogInit: Base Directory: D:/Program Files/Epic Games/UE_4.24/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 25
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 37
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 36
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 2
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 36
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 8
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 8
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.12.11-01.44.44:852][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.12.11-01.44.44:852][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.12.11-01.44.44:853][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.12.11-01.44.44:853][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.12.11-01.44.44:860][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.11-01.44.44:860][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.11-01.44.44:861][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.11-01.44.44:862][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.11-01.44.44:862][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.11-01.44.44:862][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.12.11-01.44.44:867][  0]LogHAL: Display: Platform has ~ 32 GB [34297274368 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.12.11-01.44.44:867][  0]LogInit: Going up to parent DeviceProfile []
+[2020.12.11-01.44.44:867][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:867][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.12.11-01.44.44:867][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.12.11-01.44.44:867][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:867][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.12.11-01.44.44:867][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:867][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.12.11-01.44.44:867][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.12.11-01.44.44:868][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:868][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Scalability.ini]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.12.11-01.44.44:869][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Config/Windows/Engine.ini]
+[2020.12.11-01.44.44:869][  0]LogInit: Computer: DESKTOP-CDEC9E2
+[2020.12.11-01.44.44:869][  0]LogInit: User: KeithTakens
+[2020.12.11-01.44.44:869][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.12.11-01.44.44:869][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.12.11-01.44.44:870][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2020.12.11-01.44.44:870][  0]LogMemory: Platform Memory Stats for Windows
+[2020.12.11-01.44.44:870][  0]LogMemory: Process Physical Memory: 107.25 MB used, 107.25 MB peak
+[2020.12.11-01.44.44:870][  0]LogMemory: Process Virtual Memory: 100.57 MB used, 100.57 MB peak
+[2020.12.11-01.44.44:870][  0]LogMemory: Physical Memory: 8693.79 MB used,  24014.64 MB free, 32708.43 MB total
+[2020.12.11-01.44.44:870][  0]LogMemory: Virtual Memory: 5139.75 MB used,  134212592.00 MB free, 134217728.00 MB total
+[2020.12.11-01.44.44:875][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.12.11-01.44.44:899][  0]LogInit: Using OS detected language (en-US).
+[2020.12.11-01.44.44:899][  0]LogInit: Using OS detected locale (en-US).
+[2020.12.11-01.44.44:900][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2020.12.11-01.44.45:105][  0]LogInit: Setting process to per monitor DPI aware
+[2020.12.11-01.44.45:148][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.12.11-01.44.45:148][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.12.11-01.44.45:331][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.12.11-01.44.45:331][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2020.12.11-01.44.45:331][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2020.12.11-01.44.45:331][  0]LogD3D11RHI: D3D11 adapters:
+[2020.12.11-01.44.45:407][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1080' (Feature Level 11_0)
+[2020.12.11-01.44.45:407][  0]LogD3D11RHI:       8079/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.12.11-01.44.45:409][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.12.11-01.44.45:409][  0]LogD3D11RHI:       0/0/16354 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.12.11-01.44.45:409][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.12.11-01.44.45:415][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.12.11-01.44.45:415][  0]LogD3D11RHI:     GPU DeviceId: 0x1b80 (for the marketing name, search the web for "GPU Device Id")
+[2020.12.11-01.44.45:415][  0]LogWindows: EnumDisplayDevices:
+[2020.12.11-01.44.45:415][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1080' (P:0 D:1)
+[2020.12.11-01.44.45:416][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1080' (P:1 D:1)
+[2020.12.11-01.44.45:416][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.12.11-01.44.45:416][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1080' (P:0 D:0)
+[2020.12.11-01.44.45:416][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2020.12.11-01.44.45:416][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1080
+[2020.12.11-01.44.45:416][  0]LogD3D11RHI:   Driver Version: 432.00 (internal:26.21.14.3200, unified:432.00)
+[2020.12.11-01.44.45:416][  0]LogD3D11RHI:      Driver Date: 7-24-2019
+[2020.12.11-01.44.45:416][  0]LogRHI: Texture pool is 5655 MB (70% of 8079 MB)
+[2020.12.11-01.44.45:478][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2020.12.11-01.44.45:479][  0]LogD3D11RHI: Async texture creation enabled
+[2020.12.11-01.44.45:542][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.12.11-01.44.45:880][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2020.12.11-01.44.45:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2020.12.11-01.44.45:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2020.12.11-01.44.45:916][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATC'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1a'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTC'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ATCClient'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1Client'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC1aClient'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_PVRTCClient'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2020.12.11-01.44.45:917][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2020.12.11-01.44.45:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2020.12.11-01.44.45:937][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2020.12.11-01.44.45:946][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2020.12.11-01.44.45:955][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2020.12.11-01.44.45:963][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2020.12.11-01.44.45:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2020.12.11-01.44.45:980][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2020.12.11-01.44.45:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2020.12.11-01.44.46:020][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2020.12.11-01.44.46:021][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2020.12.11-01.44.46:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2020.12.11-01.44.46:039][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2020.12.11-01.44.46:050][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2020.12.11-01.44.46:062][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2020.12.11-01.44.46:073][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2020.12.11-01.44.46:083][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2020.12.11-01.44.46:083][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.12.11-01.44.46:088][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.12.11-01.44.46:124][  0]LogShaderCompilers: Guid format shader working directory is -11 characters bigger than the processId version (E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Intermediate/Shaders/WorkingDirectory/1620/).
+[2020.12.11-01.44.46:124][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Keith Takens/AppData/Local/Temp/UnrealShaderWorkingDir/E165909B4E75AEE2A6E31B9FC542B43C/'.
+[2020.12.11-01.44.46:125][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.12.11-01.44.46:125][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.12.11-01.44.46:125][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.12.11-01.44.46:833][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.12.11-01.44.46:887][  0]LogDerivedDataCache: Loaded boot cache 0.05s 78MB C:/Users/Keith Takens/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.12.11-01.44.46:887][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Keith Takens/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc
+[2020.12.11-01.44.46:888][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.12.11-01.44.46:888][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.12.11-01.44.46:888][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.11-01.44.46:888][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.12.11-01.44.46:897][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.12.11-01.44.46:897][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.12.11-01.44.46:897][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.12.11-01.44.46:898][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Keith Takens/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.12.11-01.44.46:898][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.12.11-01.44.46:898][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.12.11-01.44.46:922][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.12.11-01.44.46:924][  0]LogSlate: Using FreeType 2.10.0
+[2020.12.11-01.44.46:924][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.12.11-01.44.46:969][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2020.12.11-01.44.47:312][  0]LogInit: Selected Device Profile: [Windows]
+[2020.12.11-01.44.47:451][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.12.11-01.44.47:451][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.12.11-01.44.47:451][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.12.11-01.44.47:451][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.12.11-01.44.47:451][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.12.11-01.44.47:464][  0]LogNetVersion: GRVRMuseumProject 1.0.0, NetCL: 10570792, EngineNetVer: 13, GameNetVer: 0 (Checksum: 1871045798)
+[2020.12.11-01.44.48:551][  0]LogPackageLocalizationCache: Processed 10 localized package path(s) for 1 prioritized culture(s) in 0.212564 seconds
+[2020.12.11-01.44.48:558][  0]LogUObjectArray: 46750 objects as part of root set at end of initial load.
+[2020.12.11-01.44.48:558][  0]LogUObjectAllocator: 8137160 out of 0 bytes used by permanent object pool.
+[2020.12.11-01.44.48:558][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.12.11-01.44.48:907][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.12.11-01.44.48:910][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.12.11-01.44.48:958][  0]SourceControl: Source control is disabled
+[2020.12.11-01.44.48:958][  0]SourceControl: Source control is disabled
+[2020.12.11-01.44.48:959][  0]SourceControl: Source control is disabled
+[2020.12.11-01.44.48:959][  0]SourceControl: Source control is disabled
+[2020.12.11-01.44.48:960][  0]SourceControl: Source control is disabled
+[2020.12.11-01.44.49:064][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.12.11-01.44.49:075][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.11-01.44.49:075][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2020.12.11-01.44.49:176][  0]LogOcInput: OculusInput pre-init called
+[2020.12.11-01.44.49:184][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.12.11-01.44.49:184][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.12.11-01.44.49:248][  0]LogEngine: Initializing Engine...
+[2020.12.11-01.44.49:296][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2020.12.11-01.44.49:297][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.12.11-01.44.49:598][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.12.11-01.44.49:604][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.12.11-01.44.49:626][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2020.12.11-01.44.49:626][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2020.12.11-01.44.49:626][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2020.12.11-01.44.49:626][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2020.12.11-01.44.49:626][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2020.12.11-01.44.49:626][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2020.12.11-01.44.49:626][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2020.12.11-01.44.49:626][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2020.12.11-01.44.49:626][  0]LogAudio: Display: Using built-in audio occlusion.
+[2020.12.11-01.44.49:626][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2020.12.11-01.44.49:666][  0]LogAudioMixer: Display: Audio Device Output Speaker Info:
+[2020.12.11-01.44.49:666][  0]LogAudioMixer: Display: Name: Speakers (Turtle Beach Stealth 700)
+[2020.12.11-01.44.49:666][  0]LogAudioMixer: Display: Is Default: Yes
+[2020.12.11-01.44.49:666][  0]LogAudioMixer: Display: Sample Rate: 48000
+[2020.12.11-01.44.49:666][  0]LogAudioMixer: Display: Channel Count Used: 2
+[2020.12.11-01.44.49:666][  0]LogAudioMixer: Display: Device Channel Count: 2
+[2020.12.11-01.44.49:666][  0]LogAudioMixer: Display: Channel Order:
+[2020.12.11-01.44.49:666][  0]LogAudioMixer: Display: 0: FrontLeft
+[2020.12.11-01.44.49:666][  0]LogAudioMixer: Display: 1: FrontRight
+[2020.12.11-01.44.49:685][  0]LogAudioMixer: Display: Using Audio Device Speakers (Turtle Beach Stealth 700)
+[2020.12.11-01.44.49:689][  0]LogInit: FAudioDevice initialized.
+[2020.12.11-01.44.49:689][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.12.11-01.44.49:795][  0]LogDerivedDataCache: Saved boot cache 0.11s 78MB C:/Users/Keith Takens/AppData/Local/UnrealEngine/4.24/DerivedDataCache/Boot.ddc.
+[2020.12.11-01.44.49:796][  0]LogInit: Texture streaming: Enabled
+[2020.12.11-01.44.49:806][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.12.11-01.44.49:806][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.12.11-01.44.49:807][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.12.11-01.44.49:934][  0]LogInit: Transaction tracking system initialized
+[2020.12.11-01.44.49:945][  0]BlueprintLog: New page: Editor Load
+[2020.12.11-01.44.49:983][  0]LocalizationService: Localization service is disabled
+[2020.12.11-01.44.50:268][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.12.11-01.44.50:268][  0]LogCook: Display: Mobile HDR setting 1
+[2020.12.11-01.44.50:344][  0]LogFileCache: Scanning file cache for directory 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/' took 0.04s
+[2020.12.11-01.44.50:817][  0]LogLinker: Failed to load '/Game/WaterMaterials/Textures/T_Noise_Stormy': Can't find file.
+[2020.12.11-01.44.50:818][  0]LogLinker: Failed to load '/Game/WaterMaterials/Textures/T_Noise_Stormy': Can't find file.
+[2020.12.11-01.44.50:830][  0]SourceControl: Source control is disabled
+[2020.12.11-01.44.50:830][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.11-01.44.50:831][  0]LightingResults: New page: Lighting Build
+[2020.12.11-01.44.50:831][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-01.44.50:831][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.11-01.44.50:831][  0]MapCheck: New page: Map Check
+[2020.12.11-01.44.50:831][  0]LightingResults: New page: Lighting Build
+[2020.12.11-01.44.50:853][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.12.11-01.44.50:918][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2020.12.11-01.44.50:922][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.11-01.44.50:945][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2020.12.11-01.44.50:945][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.11-01.44.50:945][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.489ms to complete.
+[2020.12.11-01.44.50:945][  0]LogFileHelpers: Loading map 'Template_Default' took 0.115
+[2020.12.11-01.44.51:073][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-01.44.51:079][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-01.44.51:085][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-01.44.51:092][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.12.11-01.44.51:096][  0]LogCollectionManager: Loaded 0 collections in 0.001095 seconds
+[2020.12.11-01.44.51:108][  0]LogFileCache: Scanning file cache for directory 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Collections/' took 0.00s
+[2020.12.11-01.44.51:108][  0]LogFileCache: Scanning file cache for directory 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/Developers/KeithTakens/Collections/' took 0.00s
+[2020.12.11-01.44.51:108][  0]LogFileCache: Scanning file cache for directory 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/Collections/' took 0.00s
+[2020.12.11-01.44.51:108][  0]LogContentBrowser: Native class hierarchy populated in 0.0082 seconds. Added 3015 classes and 717 folders.
+[2020.12.11-01.44.51:111][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.11-01.44.51:153][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2020.12.11-01.44.51:159][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.12.11-01.44.51:217][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0004 seconds. Added 2 classes and 3 folders.
+[2020.12.11-01.44.51:238][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.12.11-01.44.51:241][  0]LogSlate: Took 0.000208 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.12.11-01.44.51:246][  0]LogSlate: Took 0.000178 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.12.11-01.44.51:320][  0]LogRenderer: Reallocating scene render targets to support 996x636 Format 10 NumSamples 1 (Frame:1).
+[2020.12.11-01.44.51:403][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.12.11-01.44.51:403][  0]LogLoad: (Engine Initialization) Total time: 8.42 seconds
+[2020.12.11-01.44.51:403][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.12.11-01.44.51:454][  0]LogAssetRegistry: Asset discovery search completed in 4.4866 seconds
+[2020.12.11-01.44.51:457][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2020.12.11-01.44.51:458][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.12.11-01.44.51:494][  0]LogSlate: Took 0.000120 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.11-01.44.54:753][371]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.12.11-01.44.55:066][371]LogLinker: Warning: Asset 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/Materials/PP_Outliner_M.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.12.11-01.44.55:067][371]LogLinker: Warning: Asset 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/Materials/MF_ConvolveTexture.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.12.11-01.44.55:068][371]LogLinker: Warning: Asset 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/Materials/MF_ExtractDepth.uasset' has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2020.12.11-01.44.56:376][371]LogAIModule: Creating AISystem for world GrandRiver
+[2020.12.11-01.44.56:381][371]LogMaterial: Display: Material /Game/Geometry/Birch/Tree_0Mat_ncl1_1.Tree_0Mat_ncl1_1 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2020.12.11-01.44.56:403][371]LogMaterial: Display: Missing cached shader map for material Tree_0Mat_ncl1_1, compiling. 
+[2020.12.11-01.44.56:446][371]MapCheck: Warning: Tree_0Mat_ncl1_1 Material /Game/Geometry/Birch/Tree_0Mat_ncl1_1.Tree_0Mat_ncl1_1 was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.12.11-01.44.56:451][371]LogMaterial: Display: Material /Game/Geometry/Birch/Tree_1Mat_ncl1_1.Tree_1Mat_ncl1_1 needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2020.12.11-01.44.56:455][371]LogMaterial: Display: Missing cached shader map for material Tree_1Mat_ncl1_1, compiling. 
+[2020.12.11-01.44.56:498][371]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.12.11-01.44.56:498][371]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.12.11-01.44.56:498][371]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 13
+[2020.12.11-01.44.56:498][371]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.12.11-01.44.56:498][371]MapCheck: Warning: Tree_1Mat_ncl1_1 Material /Game/Geometry/Birch/Tree_1Mat_ncl1_1.Tree_1Mat_ncl1_1 was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.12.11-01.44.56:499][371]LogMaterial: Display: Material /Game/Geometry/Bushes_Flowers/Bushes_Flowers/Geraniums/Mat_Geraniums_Stem.Mat_Geraniums_Stem needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2020.12.11-01.44.56:505][371]LogMaterial: Display: Missing cached shader map for material Mat_Geraniums_Stem, compiling. 
+[2020.12.11-01.44.56:590][371]MapCheck: Warning: Mat_Geraniums_Stem Material /Game/Geometry/Bushes_Flowers/Bushes_Flowers/Geraniums/Mat_Geraniums_Stem.Mat_Geraniums_Stem was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.12.11-01.44.56:590][371]LogMaterial: Display: Material /Game/Geometry/Bushes_Flowers/Bushes_Flowers/Geraniums/Mat_Geraniums_Leaves.Mat_Geraniums_Leaves needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2020.12.11-01.44.56:597][371]LogMaterial: Display: Missing cached shader map for material Mat_Geraniums_Leaves, compiling. 
+[2020.12.11-01.44.56:652][371]MapCheck: Warning: Mat_Geraniums_Leaves Material /Game/Geometry/Bushes_Flowers/Bushes_Flowers/Geraniums/Mat_Geraniums_Leaves.Mat_Geraniums_Leaves was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.12.11-01.44.56:653][371]LogMaterial: Display: Material /Game/Geometry/Trees_Oak/Oak_MATs/Mat_OakTrunk.Mat_OakTrunk needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2020.12.11-01.44.56:662][371]LogMaterial: Display: Missing cached shader map for material Mat_OakTrunk, compiling. 
+[2020.12.11-01.44.56:694][371]MapCheck: Warning: Mat_OakTrunk Material /Game/Geometry/Trees_Oak/Oak_MATs/Mat_OakTrunk.Mat_OakTrunk was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.12.11-01.44.56:694][371]LogMaterial: Display: Material /Game/Geometry/Trees_Oak/Oak_MATs/Mat_OakLeaves.Mat_OakLeaves needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2020.12.11-01.44.56:700][371]LogMaterial: Display: Missing cached shader map for material Mat_OakLeaves, compiling. 
+[2020.12.11-01.44.56:750][371]MapCheck: Warning: Mat_OakLeaves Material /Game/Geometry/Trees_Oak/Oak_MATs/Mat_OakLeaves.Mat_OakLeaves was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.12.11-01.44.56:756][371]LogMaterial: Display: Missing cached shader map for material Mat_OakLeaves, compiling. 
+[2020.12.11-01.44.56:825][371]LogMaterial: Display: Missing cached shader map for material Mat_OakLeaves, compiling. 
+[2020.12.11-01.44.56:886][371]LogMaterial: Display: Material /Game/Geometry/Trees_Oak/Oak_MATs/Mat_OakBranch_Leaves.Mat_OakBranch_Leaves needed to have new flag set bUsedWithInstancedStaticMeshes !
+[2020.12.11-01.44.56:893][371]LogMaterial: Display: Missing cached shader map for material Mat_OakBranch_Leaves, compiling. 
+[2020.12.11-01.44.56:949][371]MapCheck: Warning: Mat_OakBranch_Leaves Material /Game/Geometry/Trees_Oak/Oak_MATs/Mat_OakBranch_Leaves.Mat_OakBranch_Leaves was missing the usage flag bUsedWithInstancedStaticMeshes. If the material asset is not re-saved, it may not render correctly when run outside the editor. Fix
+[2020.12.11-01.44.56:959][371]LogMaterial: Display: Missing cached shader map for material Mat_OakBranch_Leaves, compiling. 
+[2020.12.11-01.44.57:029][371]LogMaterial: Display: Missing cached shader map for material Mat_OakBranch_Leaves, compiling. 
+[2020.12.11-01.44.57:107][371]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Terrain/GrandRiver.GrandRiver
+[2020.12.11-01.44.57:141][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2020.12.11-01.44.57:143][371]Cmd: MAP LOAD FILE="E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Content/Terrain/GrandRiver.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.12.11-01.44.57:143][371]LightingResults: New page: Lighting Build
+[2020.12.11-01.44.57:144][371]LoadErrors: New page: Loading map: GrandRiver.umap
+[2020.12.11-01.44.57:145][371]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-01.44.57:145][371]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.11-01.44.57:145][371]MapCheck: New page: Map Check
+[2020.12.11-01.44.57:145][371]LightingResults: New page: Lighting Build
+[2020.12.11-01.44.57:173][371]LogUObjectHash: Compacting FUObjectHashTables data took   3.40ms
+[2020.12.11-01.44.57:245][371]LogStreaming: Display: ULevelStreaming::RequestLevel(/Game/Terrain/Foilage) is flushing async loading
+[2020.12.11-01.44.57:245][371]LogStreaming: Display: Flushing async loaders.
+[2020.12.11-01.44.57:529][371]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.12.11-01.44.58:044][371]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2020.12.11-01.44.58:177][371]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.12.11-01.44.58:177][371]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.482ms to complete.
+[2020.12.11-01.44.58:177][371]LogFileHelpers: Loading map 'GrandRiver' took 1.034
+[2020.12.11-01.44.58:495][381]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 890
+[2020.12.11-01.45.00:495][576]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 880
+[2020.12.11-01.45.00:890][623]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 870
+[2020.12.11-01.45.01:167][656]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 860
+[2020.12.11-01.45.02:268][784]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 850
+[2020.12.11-01.45.03:523][929]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 840
+[2020.12.11-01.45.05:487][161]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 830
+[2020.12.11-01.45.05:596][174]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 820
+[2020.12.11-01.45.07:782][419]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 810
+[2020.12.11-01.45.08:394][489]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 800
+[2020.12.11-01.45.09:398][605]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 790
+[2020.12.11-01.45.12:416][910]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 780
+[2020.12.11-01.45.12:416][910]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 770
+[2020.12.11-01.45.14:289][ 46]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 760
+[2020.12.11-01.45.15:586][140]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 750
+[2020.12.11-01.45.16:086][174]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 740
+[2020.12.11-01.45.16:951][239]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 730
+[2020.12.11-01.45.17:023][244]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 720
+[2020.12.11-01.45.20:938][468]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 710
+[2020.12.11-01.45.21:243][487]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 700
+[2020.12.11-01.45.21:403][497]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 690
+[2020.12.11-01.45.21:741][517]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 680
+[2020.12.11-01.45.25:596][864]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 670
+[2020.12.11-01.45.25:970][908]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 660
+[2020.12.11-01.45.28:566][215]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 650
+[2020.12.11-01.45.28:865][249]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 640
+[2020.12.11-01.45.29:559][332]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 630
+[2020.12.11-01.45.30:086][395]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 620
+[2020.12.11-01.45.34:282][893]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 610
+[2020.12.11-01.45.34:442][912]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 600
+[2020.12.11-01.45.34:752][949]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 590
+[2020.12.11-01.45.36:013][ 97]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 580
+[2020.12.11-01.45.38:549][401]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 570
+[2020.12.11-01.45.38:908][444]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 560
+[2020.12.11-01.45.39:317][492]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 550
+[2020.12.11-01.45.39:375][498]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 540
+[2020.12.11-01.45.41:834][792]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 530
+[2020.12.11-01.45.44:229][ 78]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 520
+[2020.12.11-01.45.44:562][118]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 510
+[2020.12.11-01.45.45:255][201]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 500
+[2020.12.11-01.45.45:495][229]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 490
+[2020.12.11-01.45.47:052][415]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 480
+[2020.12.11-01.45.49:323][686]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 470
+[2020.12.11-01.45.49:647][725]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 460
+[2020.12.11-01.45.50:590][838]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 450
+[2020.12.11-01.45.50:728][851]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 440
+[2020.12.11-01.45.52:757][ 94]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 430
+[2020.12.11-01.45.54:742][332]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 420
+[2020.12.11-01.45.56:080][492]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 410
+[2020.12.11-01.45.56:097][494]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 400
+[2020.12.11-01.45.56:524][545]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 390
+[2020.12.11-01.45.58:201][746]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 380
+[2020.12.11-01.45.59:510][903]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 370
+[2020.12.11-01.46.01:377][127]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 360
+[2020.12.11-01.46.01:811][179]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 350
+[2020.12.11-01.46.01:861][185]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 340
+[2020.12.11-01.46.04:030][438]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 330
+[2020.12.11-01.46.05:332][594]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 320
+[2020.12.11-01.46.07:042][797]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 310
+[2020.12.11-01.46.07:800][888]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 300
+[2020.12.11-01.46.07:940][905]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 290
+[2020.12.11-01.46.09:502][ 92]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 280
+[2020.12.11-01.46.11:440][323]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 270
+[2020.12.11-01.46.12:461][444]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 260
+[2020.12.11-01.46.12:843][488]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 250
+[2020.12.11-01.46.12:892][494]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 240
+[2020.12.11-01.46.16:232][894]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 230
+[2020.12.11-01.46.17:091][996]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 220
+[2020.12.11-01.46.17:932][ 97]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 210
+[2020.12.11-01.46.18:961][220]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 200
+[2020.12.11-01.46.19:117][238]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 190
+[2020.12.11-01.46.21:980][580]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 180
+[2020.12.11-01.46.22:790][677]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 170
+[2020.12.11-01.46.23:209][727]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 160
+[2020.12.11-01.46.23:360][745]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 150
+[2020.12.11-01.46.25:108][951]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 140
+[2020.12.11-01.46.27:669][257]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 130
+[2020.12.11-01.46.28:754][387]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 120
+[2020.12.11-01.46.29:313][454]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 110
+[2020.12.11-01.46.29:613][490]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 100
+[2020.12.11-01.46.31:066][664]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 90
+[2020.12.11-01.46.32:979][893]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 80
+[2020.12.11-01.46.33:966][ 11]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 70
+[2020.12.11-01.46.34:709][100]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 60
+[2020.12.11-01.46.34:963][130]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 50
+[2020.12.11-01.46.37:207][397]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.12.11-01.46.38:233][520]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 30
+[2020.12.11-01.46.40:505][792]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 22
+[2020.12.11-01.46.40:506][792]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.12.11-01.46.41:201][875]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.11-01.46.41:460][906]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 7
+[2020.12.11-01.46.42:536][ 35]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.11-01.46.42:981][ 88]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2020.12.11-01.46.43:675][171]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.11-01.46.43:766][182]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.11-01.50.53:614][359]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2020.12.11-01.50.54:838][498]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2020.12.11-01.50.55:245][541]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (BP_PickupCube)
+[2020.12.11-01.51.12:370][543]LogEditorViewport: Clicking on Actor (LMB): BP_PickupCube_C (EditorCube40)
+[2020.12.11-01.52.02:184][300]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.12.11-01.52.02:902][368]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.12.11-01.52.08:039][900]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.11-01.52.22:101][521]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Corn9)
+[2020.12.11-01.52.33:366][815]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.11-01.54.30:662][489]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.11-01.54.31:859][615]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.11-01.54.52:972][ 76]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Unwrapped_Campfire)
+[2020.12.11-01.55.19:992][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.12.11-01.55.24:607][186]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/GrandRiver_Auto154C4A2EA4578413C8A03DA9ADF9EF2EF.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Autosaves/Game/Terrain/GrandRiver_Auto1.umap'
+[2020.12.11-01.55.24:618][186]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Terrain/GrandRiver' took 4.646
+[2020.12.11-01.55.24:618][186]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.646
+[2020.12.11-01.55.44:367][548]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.11-02.35.21:288][577]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.12.11-02.35.23:178][755]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.11-02.35.54:653][905]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.12.11-02.35.55:274][972]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.12.11-02.36.09:102][354]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Geometry/Trees_Oak/Oak_Leaf_Textures/oak_leaf.oak_leaf
+[2020.12.11-02.36.09:106][354]LogContentBrowser: Native class hierarchy updated for 'TextureEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2020.12.11-02.36.16:756][ 72]LogSlate: Window 'oak_leaf' being destroyed
+[2020.12.11-02.36.16:762][ 72]LogSlate: Window 'oak_leaf' being destroyed
+[2020.12.11-02.36.17:740][179]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.12.11-02.36.21:542][556]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/Geometry/Trees_Oak/Tree_Oak_1.Tree_Oak_1
+[2020.12.11-02.36.22:062][557]LogRenderer: Reallocating scene render targets to support 996x728 Format 10 NumSamples 1 (Frame:1).
+[2020.12.11-02.36.30:049][153]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Geometry/Trees_Oak/Oak_MATs/Mat_OakBranch_Leaves_Inst.Mat_OakBranch_Leaves_Inst
+[2020.12.11-02.36.30:443][153]LogRenderer: Reallocating scene render targets to support 1028x728 Format 10 NumSamples 1 (Frame:1).
+[2020.12.11-02.37.00:991][446]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Geometry/Trees_Oak/Oak_MATs/Mat_OakLeaves.Mat_OakLeaves
+[2020.12.11-02.37.00:995][446]LogMaterial: Display: Missing cached shader map for material Mat_OakLeaves, compiling. 
+[2020.12.11-02.37.01:462][446]LogMaterial: Display: Missing cached shader map for material Mat_OakLeaves, compiling. 
+[2020.12.11-02.37.01:481][446]LogMaterial: Display: Missing cached shader map for material Mat_OakLeaves, compiling. 
+[2020.12.11-02.37.01:504][446]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 30
+[2020.12.11-02.37.01:504][446]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 29
+[2020.12.11-02.37.01:504][446]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2020.12.11-02.37.01:504][446]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.12.11-02.37.01:504][446]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2020.12.11-02.37.01:533][446]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_0, compiling. 
+[2020.12.11-02.37.01:545][446]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.12.11-02.37.01:741][446]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.12.11-02.37.01:828][447]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2020.12.11-02.37.01:828][447]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2020.12.11-02.37.01:899][449]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 36
+[2020.12.11-02.37.01:995][455]LogSlate: Took 0.000202 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.12.11-02.37.02:031][458]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 35
+[2020.12.11-02.37.02:031][458]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 34
+[2020.12.11-02.37.02:270][473]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 33
+[2020.12.11-02.37.02:315][476]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2020.12.11-02.37.02:489][485]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 31
+[2020.12.11-02.37.02:489][485]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2020.12.11-02.37.02:553][489]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 29
+[2020.12.11-02.37.02:732][499]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 28
+[2020.12.11-02.37.02:859][508]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.12.11-02.37.02:893][511]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 26
+[2020.12.11-02.37.02:917][513]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.12.11-02.37.03:482][544]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 24
+[2020.12.11-02.37.03:701][557]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 23
+[2020.12.11-02.37.03:755][561]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.12.11-02.37.03:768][562]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 21
+[2020.12.11-02.37.03:936][575]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.12.11-02.37.04:330][600]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.12.11-02.37.04:473][609]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.12.11-02.37.04:602][616]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 17
+[2020.12.11-02.37.04:638][618]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 16
+[2020.12.11-02.37.05:007][641]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.12.11-02.37.05:007][641]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 14
+[2020.12.11-02.37.05:271][659]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.12.11-02.37.05:388][667]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 12
+[2020.12.11-02.37.05:400][668]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.12.11-02.37.05:485][673]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2020.12.11-02.37.05:595][680]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.12.11-02.37.05:727][688]MaterialEditorStats: Base pass shader: 133 instructions
+[2020.12.11-02.37.05:727][688]MaterialEditorStats: Base pass shader with Surface Lightmap: 167 instructions
+[2020.12.11-02.37.05:727][688]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 223 instructions
+[2020.12.11-02.37.05:727][688]MaterialEditorStats: Base pass vertex shader: 97 instructions
+[2020.12.11-02.37.05:727][688]MaterialEditorStats: Texture samplers: 3/16
+[2020.12.11-02.37.05:727][688]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(1)
+[2020.12.11-02.37.05:727][688]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.12.11-02.37.05:924][700]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.12.11-02.37.05:924][700]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.12.11-02.37.05:924][700]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 6
+[2020.12.11-02.37.05:993][705]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.12.11-02.37.06:326][725]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.12.11-02.37.06:391][729]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.12.11-02.37.06:420][731]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.12.11-02.37.06:435][732]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.12.11-02.37.10:134][ 65]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.11-02.37.11:357][163]LogSlate: Window 'Color Picker' being destroyed
+[2020.12.11-02.37.16:197][591]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Geometry/Trees_Oak/Oak_Leaf_Textures/oak_leaf.oak_leaf
+[2020.12.11-02.37.37:458][747]LogSlate: Window 'Message' being destroyed
+[2020.12.11-02.37.39:671][849]LogSlate: Window 'Message' being destroyed
+[2020.12.11-02.37.39:686][849]LogSlate: Window 'oak_leaf' being destroyed
+[2020.12.11-02.37.39:688][849]LogSlate: Window 'oak_leaf' being destroyed
+[2020.12.11-02.37.39:723][849]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-02.37.39:723][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.11-02.37.39:879][849]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-02.37.39:879][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.11-02.37.39:946][849]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2020.12.11-02.37.39:946][849]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2020.12.11-02.37.41:363][  7]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2020.12.11-02.38.13:854][535]LogEditorViewport: Clicking on Actor (LMB): InstancedFoliageActor (InstancedFoliageActor)
+[2020.12.11-02.38.22:101][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2020.12.11-02.38.22:105][472]LogEditorActor: Deleted 0 Actors (0.033 secs)
+[2020.12.11-02.39.07:842][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.12.11-02.39.11:925][356]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/GrandRiver_Auto29D7A1FC4439869277EB62B9522B47FBF.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Autosaves/Game/Terrain/GrandRiver_Auto2.umap'
+[2020.12.11-02.39.12:176][356]LogSavePackage: Moving 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Foilage_Auto2B96795B34C073D9DCE7A99B098024B9F.tmp' to 'E:/Museum Project/GRVR Native American Village/GRVRMuseumProject/Saved/Autosaves/Game/Terrain/Foilage_Auto2.umap'
+[2020.12.11-02.39.12:180][356]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Terrain/GrandRiver' took 4.362
+[2020.12.11-02.39.12:180][356]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 4.362
